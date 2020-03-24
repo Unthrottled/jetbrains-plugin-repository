@@ -1,0 +1,26 @@
+{
+  "name": "jetbrains-plugin-repository",
+  "version": "1.0.0",
+  "description": "Content store for the Unthrottled JetBrains Repository",
+  "main": "index.ts",
+  "repository": "git@github.com:Unthrottled/jetbrains-plugin-repository.git",
+  "author": "DATBOI <alexsimons9999@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "upload": "ts-node buildSrc/AssetUpload.ts",
+    "download": "ts-node buildSrc/AssetDownload.ts"
+  },
+  "devDependencies": {
+    "@types/aws-sdk": "^2.7.0",
+    "@types/file-type": "^10.9.1",
+    "@types/lodash": "^4.14.149",
+    "@types/node": "^13.7.0",
+    "typescript": "^3.7.5"
+  },
+  "dependencies": {
+    "aws-sdk": "^2.614.0",
+    "file-type": "^14.1.2",
+    "lodash": "^4.17.15"
+  }
+}
