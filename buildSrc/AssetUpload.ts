@@ -28,6 +28,12 @@ const uploadUnsyncedAssets = (workToBeDone: [string, string][]): Promise<[string
     const [filePath,] = next;
     return FileType.fromFile(filePath)
       .then(fileType => {
+        if(!fileType && filePath.endsWith('.xml')) {
+          return {mime: "application/xml"}
+        }
+        return fileType
+      })
+      .then(fileType => {
         return new Promise<boolean>((res) => {
           const fileStream = fs.createReadStream(filePath);
           fileStream.on('error', err => {
