@@ -1,0 +1,7 @@
+Current:
+
+https://jetbrains.assets.unthrottled.io/updatePlugins.xml
+
+Supports 193 builds:
+
+https://jetbrains.assets.unthrottled.io/updatePlugins-193.xml
