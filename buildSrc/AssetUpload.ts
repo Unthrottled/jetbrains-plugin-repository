@@ -69,8 +69,7 @@ console.log('Starting asset upload.');
 
 const getUpdatePluginXmls = (): Promise<string[]> =>
   Promise.resolve(
-    fs.readdirSync(rootDirectory).filter(patho => patho.startsWith('updatePlugins') ||
-      patho.startsWith('links.txt'))
+    fs.readdirSync(rootDirectory).filter(patho => patho.startsWith('updatePlugins'))
       .map(p => path.resolve('.',p))
   );
 
