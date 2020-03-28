@@ -1,0 +1,14 @@
+<repositories>
+    <repository>
+        <description>
+            Default/Current Repository
+        </description>
+        <link href="https://jetbrains.assets.unthrottled.io/canary/updatePlugins.xml">
+            https://jetbrains.assets.unthrottled.io/canary/updatePlugins.xml</link>
+    </repository>
+    <repository>
+        <description>Supports 193 Builds</description>
+        <link href="https://jetbrains.assets.unthrottled.io/canary/updatePlugins-193.xml">
+            https://jetbrains.assets.unthrottled.io/canary/updatePlugins-193.xml</link>
+    </repository>
+</repositories>

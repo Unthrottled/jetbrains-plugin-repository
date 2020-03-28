@@ -9,6 +9,8 @@ export const rootDirectory =
 export const assetDirectories = [
   'doki-theme-ultimate',
   'doki-theme',
+  'canary',
+  'ultimate'
 ];
 
 export async function walkDir(dir: string): Promise<string[]> {

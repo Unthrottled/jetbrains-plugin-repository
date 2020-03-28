@@ -1,10 +1,15 @@
 {
-  "updatePlugins-193.xml": "d2ecf50f40c7d15e9fd97125c39f9e63",
-  "updatePlugins.xml": "f3eff7a5c7377e06ca9413dd63db6d76",
+  "updatePlugins-193.xml": "b45ecb0aed1997d287c030bc26844d01",
+  "updatePlugins.xml": "b45ecb0aed1997d287c030bc26844d01",
   "doki-theme-ultimate/doki-theme-ultimate.7.0.1.zip": "0396259344e40282b64419d4969f5e5d",
   "doki-theme/doki-theme.7.0.1.zip": "c258c76abd8a8acb19752c98986138ba",
   "updatePluginsLinks.xml": "dfe35f474772ea3b7ac141d7563d1d70",
   "doki-theme/doki-theme.7.0.2-beta.zip": "19559a6c391aa32effb00ce4d963a4db",
   "doki-theme-ultimate/doki-theme-ultimate.7.0.2.zip": "507ccc24bdedce5d8bb83ad35aee757a",
-  "doki-theme/doki-theme.7.0.2.zip": "fddf77ea3cae2fb8276fabd63a088592"
+  "doki-theme/doki-theme.7.0.2.zip": "fddf77ea3cae2fb8276fabd63a088592",
+  "canary/updatePlugins.xml": "f3eff7a5c7377e06ca9413dd63db6d76",
+  "canary/updatePluginsLinks.xml": "a9135f7ce4516568594ab00444d72c4c",
+  "ultimate/updatePlugins-193.xml": "f3eff7a5c7377e06ca9413dd63db6d76",
+  "ultimate/updatePlugins.xml": "f3eff7a5c7377e06ca9413dd63db6d76",
+  "ultimate/updatePluginsLinks.xml": "3458b715f33a5aa3129c4dcf2de6d319"
 }
