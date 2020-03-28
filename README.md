@@ -11,13 +11,13 @@ You will be able to conveniently receive the latest updates, without having to w
 ### Canary
 This update channel will be updated more frequently, get the latest and greatest more frequently.
 
-**Link:**
+**Link for install:**
 https://jetbrains.assets.unthrottled.io/canary/updatePlugins.xml
 
 ### Release
 This update channel will be updated less frequently but still often, generally once a week during active development.
 
-**Link:**
+**Link for install:**
 https://jetbrains.assets.unthrottled.io/updatePlugins.xml
 
  ## Installation
