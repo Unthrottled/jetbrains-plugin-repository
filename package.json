@@ -8,6 +8,7 @@
   "license": "MIT",
   "private": false,
   "scripts": {
+    "release:doki": "ts-node buildSrc/DokiRelease.ts",
     "upload": "ts-node buildSrc/AssetUpload.ts",
     "download": "ts-node buildSrc/AssetDownload.ts"
   },
