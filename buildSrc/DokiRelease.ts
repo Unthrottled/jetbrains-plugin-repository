@@ -1,11 +1,27 @@
 import readline from 'readline';
 import path from "path";
 import fs from 'fs';
+import {spawn} from "child_process";
 
 const readLineInterface = readline.createInterface({
   input: process.stdin,
   output: process.stdout,
 });
+
+const runCommand = (command: string) => {
+  return new Promise((resolve, reject) => {
+    const childProcess = spawn(command, {
+      cwd: path.resolve(__dirname, '..', '..', 'doki-theme-jetbrains'),
+    });
+
+    childProcess.stdout.pipe(process.stdout);
+    childProcess.stderr.pipe(process.stderr);
+
+    childProcess.on('close', ()=>{
+      resolve();
+    })
+  })
+};
 
 readLineInterface.on('close', () => process.exit(0))
 
@@ -38,9 +54,13 @@ askQuestion("Which version?\n")
   .then(({channel, versionNumber}) => {
     readWriteTemplate("communityUpdatePluginTemplate.xml", canaryDir, versionNumber);
     readWriteTemplate("ultimateUpdatePluginTemplate.xml", ultimateDir, versionNumber);
-    if(channel === 'all') {
+    if (channel === 'all') {
       readWriteTemplate("communityUpdatePluginTemplate.xml", communityDir, versionNumber);
     }
 
+    return runCommand('./scripts/preBuild.sh').then(() =>
+      runCommand('./scripts/buildPlugin.sh'));
+  }).then(()=>{
+
     readLineInterface.close();
-  });
+});
