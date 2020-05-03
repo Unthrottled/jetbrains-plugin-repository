@@ -3,21 +3,26 @@ import path from "path";
 import fs from 'fs';
 import {spawn} from "child_process";
 
+const dokiThemeRepo = path.resolve(__dirname, '..', '..', 'doki-theme-jetbrains');
+
 const readLineInterface = readline.createInterface({
   input: process.stdin,
   output: process.stdout,
 });
-
-const runCommand = (command: string) => {
+const runCommand = (command: string, env: {[key: string]: string} = {} ) => {
   return new Promise((resolve, reject) => {
     const childProcess = spawn(command, {
-      cwd: path.resolve(__dirname, '..', '..', 'doki-theme-jetbrains'),
+      cwd: dokiThemeRepo,
+      env: {
+        ...process.env,
+        ...env,
+      }
     });
 
     childProcess.stdout.pipe(process.stdout);
     childProcess.stderr.pipe(process.stderr);
 
-    childProcess.on('close', ()=>{
+    childProcess.on('close', () => {
       resolve();
     })
   })
@@ -28,7 +33,9 @@ readLineInterface.on('close', () => process.exit(0))
 const templateDir = path.resolve(__dirname, 'templates');
 const canaryDir = path.resolve(__dirname, '..', 'canary');
 const ultimateDir = path.resolve(__dirname, '..', 'ultimate');
+const ultimateAssetsDir = path.resolve(__dirname, '..', 'doki-theme-ultimate');
 const communityDir = path.resolve(__dirname, '..');
+const communityAssetsDir = path.resolve(__dirname, '..', 'doki-theme');
 
 const readWriteTemplate = (
   template: string,
@@ -59,8 +66,33 @@ askQuestion("Which version?\n")
     }
 
     return runCommand('./scripts/preBuild.sh').then(() =>
-      runCommand('./scripts/buildPlugin.sh'));
-  }).then(()=>{
+      runCommand('./scripts/buildPlugin.sh'))
+      .then(() => ({
+        versionNumber
+      }));
+  })
+  .then(({
+           versionNumber
+         }) => {
+    fs.copyFileSync(
+      path.resolve(dokiThemeRepo, 'build', 'distributions', `doki-theme-jetbrains-${versionNumber}.zip`),
+      path.resolve(communityAssetsDir, `doki-theme.${versionNumber}.zip`)
+    )
+    return runCommand('./scripts/preBuild.sh').then(() =>
+      runCommand('./scripts/buildPlugin.sh', {
+        PRODUCT: 'ultimate'
+      }))
+      .then(() => ({
+        versionNumber
+      }))
+  })
+  .then(({
+           versionNumber
+         }) => {
+    fs.copyFileSync(
+      path.resolve(dokiThemeRepo, 'build', 'distributions', `doki-theme-jetbrains-${versionNumber}.zip`),
+      path.resolve(ultimateAssetsDir, `doki-theme-ultimate.${versionNumber}.zip`)
+    )
 
     readLineInterface.close();
-});
+  });
