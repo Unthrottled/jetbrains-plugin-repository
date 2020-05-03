@@ -3,7 +3,7 @@
     <plugin id="io.unthrottled.DokiTheme"
             url="https://jetbrains.assets.unthrottled.io/doki-theme-ultimate/doki-theme-ultimate.{{version}}.zip"
             version="{{version}}">
-        <idea-version since-build="193.4099" until-build="201.*"/>
+        <idea-version since-build="201.0" until-build="201.*"/>
         <name>
             The Doki Theme Ultimate
         </name>
@@ -11,7 +11,7 @@
     <plugin id="io.acari.DDLCTheme"
             url="https://jetbrains.assets.unthrottled.io/doki-theme/doki-theme.{{version}}.zip"
             version="{{version}}">
-        <idea-version since-build="193.4099" until-build="201.*"/>
+        <idea-version since-build="201.0" until-build="201.*"/>
         <name>
             The Doki Theme
         </name>
