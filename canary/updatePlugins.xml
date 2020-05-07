@@ -1,11 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <plugins>
-    <plugin id="io.acari.DDLCTheme"
-            url="https://jetbrains.assets.unthrottled.io/doki-theme/doki-theme.7.1.2.zip"
-            version="7.1.2">
-        <idea-version since-build="201.0" until-build="201.*"/>
-        <name>
-            The Doki Theme
-        </name>
+    <plugin id="io.acari.DDLCTheme" url="https://jetbrains.assets.unthrottled.io/doki-theme/doki-theme.7.1.2.zip" version="7.1.2" name="The Doki Theme">
+        <idea-version since-build="201.0" until-build="201.*"></idea-version>
+    </plugin>
+    <plugin id="io.unthrottled.themed-components" url="https://jetbrains.assets.unthrottled.io/themed-components/themed-components.1.1.0.zip" version="1.1.0" name="Themed Components">
+        <idea-version since-build="201.0" until-build="201.*"></idea-version>
     </plugin>
 </plugins>

@@ -9,6 +9,7 @@
   "private": false,
   "scripts": {
     "release:doki": "ts-node buildSrc/DokiRelease.ts",
+    "release:themed-components": "ts-node buildSrc/ThemedComponentsRelease.ts",
     "upload": "ts-node buildSrc/AssetUpload.ts",
     "download": "ts-node buildSrc/AssetDownload.ts"
   },
@@ -17,11 +18,15 @@
     "@types/file-type": "^10.9.1",
     "@types/lodash": "^4.14.149",
     "@types/node": "^13.7.0",
+    "@types/xml-formatter": "^1.1.0",
+    "@types/xml2json": "^0.11.0",
     "typescript": "^3.7.5"
   },
   "dependencies": {
     "aws-sdk": "^2.614.0",
     "file-type": "^14.1.2",
-    "lodash": "^4.17.15"
+    "lodash": "^4.17.15",
+    "xml-formatter": "^2.0.1",
+    "xml2json": "^0.12.0"
   }
 }

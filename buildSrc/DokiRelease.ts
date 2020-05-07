@@ -65,8 +65,8 @@ askQuestion("Which version?\n")
       readWriteTemplate("communityUpdatePluginTemplate.xml", communityDir, versionNumber);
     }
 
-    return runCommand('./scripts/preBuild.sh').then(() =>
-      runCommand('./scripts/buildPlugin.sh'))
+    return runCommand('./ciScripts/preBuild.sh').then(() =>
+      runCommand('./ciScripts/buildPlugin.sh'))
       .then(() => ({
         versionNumber
       }));
@@ -78,8 +78,8 @@ askQuestion("Which version?\n")
       path.resolve(dokiThemeRepo, 'build', 'distributions', `doki-theme-jetbrains-${versionNumber}.zip`),
       path.resolve(communityAssetsDir, `doki-theme.${versionNumber}.zip`)
     )
-    return runCommand('./scripts/preBuild.sh').then(() =>
-      runCommand('./scripts/buildPlugin.sh', {
+    return runCommand('./ciScripts/preBuild.sh').then(() =>
+      runCommand('./ciScripts/buildPlugin.sh', {
         PRODUCT: 'ultimate'
       }))
       .then(() => ({
