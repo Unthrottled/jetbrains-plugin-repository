@@ -19,14 +19,13 @@
     "@types/lodash": "^4.14.149",
     "@types/node": "^13.7.0",
     "@types/xml-formatter": "^1.1.0",
-    "@types/xml2json": "^0.11.0",
+    "@types/xml2js": "^0.4.5",
     "typescript": "^3.7.5"
   },
   "dependencies": {
     "aws-sdk": "^2.614.0",
     "file-type": "^14.1.2",
     "lodash": "^4.17.15",
-    "xml-formatter": "^2.0.1",
-    "xml2json": "^0.12.0"
+    "xml2js": "^0.4.23"
   }
 }
