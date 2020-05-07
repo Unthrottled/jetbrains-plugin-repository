@@ -1,25 +1,27 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <plugins>
-    <plugin id="io.unthrottled.DokiTheme"
-            url="https://jetbrains.assets.unthrottled.io/doki-theme-ultimate/doki-theme-ultimate.7.1.2.zip"
-            version="7.1.2">
-        <idea-version since-build="201.0" until-build="201.*"/>
-        <name>
+  <plugin id="io.unthrottled.DokiTheme" url="https://jetbrains.assets.unthrottled.io/doki-theme-ultimate/doki-theme-ultimate.7.1.2.zip" version="7.1.2">
+    <idea-version since-build="201.0" until-build="201.*"/>
+    <name>
             The Doki Theme Ultimate
         </name>
-    </plugin>
-    <plugin id="io.acari.DDLCTheme"
-            url="https://jetbrains.assets.unthrottled.io/doki-theme/doki-theme.7.1.2.zip"
-            version="7.1.2">
-        <idea-version since-build="201.0" until-build="201.*"/>
-        <name>
+  </plugin>
+  <plugin id="io.acari.DDLCTheme" url="https://jetbrains.assets.unthrottled.io/doki-theme/doki-theme.7.1.2.zip" version="7.1.2">
+    <idea-version since-build="201.0" until-build="201.*"/>
+    <name>
             The Doki Theme
         </name>
-    </plugin>
-    <plugin id="io.unthrottled.themed-components" url="https://jetbrains.assets.unthrottled.io/themed-components/themed-components.1.1.0.zip" version="1.1.0">
-        <idea-version since-build="193.4099" until-build="201.*"/>
-        <name>
-            Themed Components
-        </name>
-    </plugin>
+  </plugin>
+  <plugin id="io.unthrottled.themed-components" url="https://jetbrains.assets.unthrottled.io/themed-components/themed-components.1.1.0.zip" version="1.1.0">
+    <idea-version since-build="193.4099" until-build="201.*"/>
+    <name>
+        Themed Components
+    </name>
+  </plugin>
+  <plugin id="io.acari.normandy.progress.bar" url="https://jetbrains.assets.unthrottled.io/normandy-progress-bar/normandy-progress-bar.1.9.0.zip" version="1.9.0">
+    <idea-version since-build="201.0" until-build="201.*"/>
+    <name>
+        Themed Components
+    </name>
+  </plugin>
 </plugins>

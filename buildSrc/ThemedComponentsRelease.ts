@@ -1,15 +1,13 @@
 import path from "path";
 import fs from 'fs';
-import {readWriteTemplate, runCommand, startRelease} from "./AssetTools";
+import {canaryDir, communityDir, readWriteTemplate, runCommand, startRelease, ultimateDir} from "./AssetTools";
 
 const themedComponentsDirectory = path.resolve(__dirname, '..', '..', 'themed-components');
-
-const canaryDir = path.resolve(__dirname, '..', 'canary');
-const communityDir = path.resolve(__dirname, '..');
-const communityAssetsDir = path.resolve(__dirname, '..', 'themed-components');
+const assetDirectory = path.resolve(__dirname, '..', 'themed-components');
 
 startRelease(async ({channel, versionNumber}) => {
     await readWriteTemplate("themedComponentsTemplate.xml", canaryDir, versionNumber);
+    await readWriteTemplate("themedComponentsTemplate.xml", ultimateDir, versionNumber);
     if (channel === 'all') {
       await readWriteTemplate("themedComponentsTemplate.xml", communityDir, versionNumber);
     }
@@ -17,7 +15,7 @@ startRelease(async ({channel, versionNumber}) => {
       .then(() => {
         fs.copyFileSync(
           path.resolve(themedComponentsDirectory, 'build', 'distributions', `themed-components-${versionNumber}.zip`),
-          path.resolve(communityAssetsDir, `themed-components.${versionNumber}.zip`)
+          path.resolve(assetDirectory, `themed-components.${versionNumber}.zip`)
         )
       });
   })

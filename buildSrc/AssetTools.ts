@@ -14,8 +14,12 @@ export const assetDirectories = [
   'doki-theme',
   'canary',
   'ultimate',
-  'themed-components'
+  'themed-components',
+  'normandy-progress-bar'
 ];
+export const canaryDir = path.resolve(__dirname, '..', 'canary');
+export const ultimateDir = path.resolve(__dirname, '..', 'ultimate');
+export const communityDir = path.resolve(__dirname, '..');
 
 export async function walkDir(dir: string): Promise<string[]> {
   const values: Promise<string[]>[] = fs.readdirSync(dir)
@@ -95,7 +99,6 @@ export const startRelease = (chain: (p: {versionNumber: string, channel:string})
 
 
 const xmlBuilder = new xmlParser.Builder();
-
 
 const toXml = (xml1: string) =>
   xmlParser.parseStringPromise(xml1)

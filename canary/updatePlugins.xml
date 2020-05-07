@@ -12,4 +12,10 @@
         Themed Components
     </name>
   </plugin>
+  <plugin id="io.acari.normandy.progress.bar" url="https://jetbrains.assets.unthrottled.io/normandy-progress-bar/normandy-progress-bar.1.9.0.zip" version="1.9.0">
+    <idea-version since-build="201.0" until-build="201.*"/>
+    <name>
+        Themed Components
+    </name>
+  </plugin>
 </plugins>
