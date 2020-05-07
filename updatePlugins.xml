@@ -8,4 +8,10 @@
             The Doki Theme
         </name>
     </plugin>
+    <plugin id="io.unthrottled.themed-components" url="https://jetbrains.assets.unthrottled.io/themed-components/themed-components.1.1.0.zip" version="1.1.0">
+        <idea-version since-build="193.4099" until-build="201.*"/>
+        <name>
+            Themed Components
+        </name>
+    </plugin>
 </plugins>
