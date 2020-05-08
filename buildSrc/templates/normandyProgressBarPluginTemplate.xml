@@ -3,6 +3,6 @@
         version="{{version}}">
     <idea-version since-build="201.0" until-build="201.*"/>
     <name>
-        Themed Components
+        Normandy Progress Bar
     </name>
 </plugin>
