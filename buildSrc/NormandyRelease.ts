@@ -1,6 +1,7 @@
 import path from "path";
 import fs from 'fs';
-import {canaryDir, communityDir, readWriteTemplate, runCommand, startRelease, ultimateDir} from "./AssetTools";
+import {canaryDir, communityDir, readWriteTemplate, runCommand, ultimateDir} from "./AssetTools";
+import {startRelease} from "./ReleaseTools";
 
 const themedComponentsDirectory = path.resolve(__dirname, '..', '..', 'normandy-progress-bar');
 const assetDirectory = path.resolve(__dirname, '..', 'normandy-progress-bar');

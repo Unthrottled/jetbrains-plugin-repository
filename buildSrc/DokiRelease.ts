@@ -1,6 +1,7 @@
 import path from "path";
 import fs from 'fs';
-import {canaryDir, communityDir, readWriteTemplate, runCommand, startRelease, ultimateDir} from "./AssetTools";
+import {canaryDir, communityDir, readWriteTemplate, runCommand, ultimateDir} from "./AssetTools";
+import {startRelease} from "./ReleaseTools";
 
 const dokiThemeRepo = path.resolve(__dirname, '..', '..', 'doki-theme-jetbrains');
 const ultimateAssetsDir = path.resolve(__dirname, '..', 'doki-theme-ultimate');

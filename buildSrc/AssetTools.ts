@@ -2,7 +2,6 @@ import fs from "fs";
 import path from "path";
 import crypto from "crypto";
 import aws from "aws-sdk";
-import readline from "readline";
 import {spawn} from "child_process";
 import xmlParser from "xml2js";
 
@@ -57,11 +56,7 @@ export const getSyncedAssets = () => JSON.parse(
   fs.readFileSync(path.join(rootDirectory, 'syncedAssets.json'), 'utf-8'));
 
 
-const readLineInterface = readline.createInterface({
-  input: process.stdin,
-  output: process.stdout,
-});
-readLineInterface.on('close', () => process.exit(0))
+
 
 export const runCommand = (cwd: string, command: string, env: { [key: string]: string } = {}) => {
   return new Promise((resolve) => {
@@ -81,21 +76,6 @@ export const runCommand = (cwd: string, command: string, env: { [key: string]: s
     })
   })
 };
-
-const askQuestion = (question: string): Promise<string> =>
-  new Promise<string>(resolve => readLineInterface.question(question, resolve));
-
-export const startRelease = (chain: (p: {versionNumber: string, channel:string}) => Promise<any>) => {
-  askQuestion("Which version?\n")
-    .then(versionNumber => askQuestion("Which channel (canary, all)\n")
-      .then(channel => ({
-        versionNumber,
-        channel,
-      }))
-    ).then(chain)
-    .then(() => readLineInterface.close())
-    .catch(() => readLineInterface.close());
-}
 
 
 const xmlBuilder = new xmlParser.Builder();
