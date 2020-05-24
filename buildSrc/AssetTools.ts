@@ -14,6 +14,7 @@ export const assetDirectories = [
   'canary',
   'ultimate',
   'themed-components',
+  'one-dark',
   'normandy-progress-bar'
 ];
 export const canaryDir = path.resolve(__dirname, '..', 'canary');

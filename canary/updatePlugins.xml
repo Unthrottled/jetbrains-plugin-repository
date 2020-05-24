@@ -24,4 +24,10 @@
         Themed Components
     </name>
   </plugin>
+  <plugin id="com.markskelton.one-dark-theme" url="https://jetbrains.assets.unthrottled.io/one-dark/one-dark-theme.4.0.0.zip" version="4.0.0">
+    <idea-version since-build="201.0" until-build="201.*"/>
+    <name>
+        One Dark Theme
+    </name>
+  </plugin>
 </plugins>
