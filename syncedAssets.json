@@ -7,10 +7,10 @@
   "doki-theme/doki-theme.7.0.2-beta.zip": "19559a6c391aa32effb00ce4d963a4db",
   "doki-theme-ultimate/doki-theme-ultimate.7.0.2.zip": "507ccc24bdedce5d8bb83ad35aee757a",
   "doki-theme/doki-theme.7.0.2.zip": "fddf77ea3cae2fb8276fabd63a088592",
-  "canary/updatePlugins.xml": "a68e9e8f210812c0b3297381abd572fa",
+  "canary/updatePlugins.xml": "f89604c2f3063a9435a3ca9c3c4309be",
   "canary/updatePluginsLinks.xml": "a9135f7ce4516568594ab00444d72c4c",
   "ultimate/updatePlugins-193.xml": "7ab32ae727138a7db04fe236398d8508",
-  "ultimate/updatePlugins.xml": "69521028b9582254fea41dfb49d1ecbb",
+  "ultimate/updatePlugins.xml": "ab606fe9a2a57aac175090ff92849e58",
   "ultimate/updatePluginsLinks.xml": "3458b715f33a5aa3129c4dcf2de6d319",
   "canary/updatePlugins-193.xml": "ef3f07c0a4fc9d2f44247bb8014947ca",
   "doki-theme-ultimate/doki-theme-ultimate.7.0.3.zip": "83deb3634edec6ea0f54d625d7b7cfe6",
@@ -30,5 +30,7 @@
   "themed-components/themed-components.1.1.2.zip": "7966ae12dea4ec8372c999b9565459e2",
   "one-dark/one-dark-theme.4.0.0.zip": "c74e90a3757d2b1170805e08beafdc00",
   "one-dark/one-dark-theme.4.0.0-1.zip": "25feb91c9b520b8f51a58014f1a5b296",
-  "one-dark/one-dark-theme.4.0.0-2.zip": "8a3f9ff1d3f4200dde95f6a5fdd0e164"
+  "one-dark/one-dark-theme.4.0.0-2.zip": "8a3f9ff1d3f4200dde95f6a5fdd0e164",
+  "doki-theme-ultimate/doki-theme-ultimate.7.2.1.zip": "bbc4c57d47e73d2bc245ba2617fa99dc",
+  "doki-theme/doki-theme.7.2.1.zip": "42269beb789756599de6706fe790284d"
 }

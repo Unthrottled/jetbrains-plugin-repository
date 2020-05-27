@@ -1,17 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <plugins>
-  <plugin id="io.acari.DDLCTheme" url="https://jetbrains.assets.unthrottled.io/doki-theme/doki-theme.7.2.0.zip" version="7.2.0">
-    <idea-version since-build="201.0" until-build="201.*"/>
-    <name>
-        The Doki Theme
-    </name>
-  </plugin>
-  <plugin id="io.unthrottled.DokiTheme" url="https://jetbrains.assets.unthrottled.io/doki-theme-ultimate/doki-theme-ultimate.7.2.0.zip" version="7.2.0">
-    <idea-version since-build="201.0" until-build="201.*"/>
-    <name>
-        The Doki Theme Ultimate
-    </name>
-  </plugin>
   <plugin id="io.acari.normandy.progress.bar" url="https://jetbrains.assets.unthrottled.io/normandy-progress-bar/normandy-progress-bar.1.9.0.zip" version="1.9.0">
     <idea-version since-build="201.0" until-build="201.*"/>
     <name>
@@ -28,6 +16,18 @@
     <idea-version since-build="201.0" until-build="201.*"/>
     <name>
         One Dark Theme
+    </name>
+  </plugin>
+  <plugin id="io.acari.DDLCTheme" url="https://jetbrains.assets.unthrottled.io/doki-theme/doki-theme.7.2.1.zip" version="7.2.1">
+    <idea-version since-build="201.0" until-build="202.*"/>
+    <name>
+        The Doki Theme
+    </name>
+  </plugin>
+  <plugin id="io.unthrottled.DokiTheme" url="https://jetbrains.assets.unthrottled.io/doki-theme-ultimate/doki-theme-ultimate.7.2.1.zip" version="7.2.1">
+    <idea-version since-build="201.0" until-build="202.*"/>
+    <name>
+        The Doki Theme Ultimate
     </name>
   </plugin>
 </plugins>
