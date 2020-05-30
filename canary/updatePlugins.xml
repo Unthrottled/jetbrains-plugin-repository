@@ -18,12 +18,6 @@
         The Doki Theme
     </name>
   </plugin>
-  <plugin id="io.unthrottled.DokiTheme" url="https://jetbrains.assets.unthrottled.io/doki-theme-ultimate/doki-theme-ultimate.7.2.1.zip" version="7.2.1">
-    <idea-version since-build="201.0" until-build="202.*"/>
-    <name>
-        The Doki Theme Ultimate
-    </name>
-  </plugin>
   <plugin id="io.acari.normandy.progress.bar" url="https://jetbrains.assets.unthrottled.io/normandy-progress-bar/normandy-progress-bar.1.9.1.zip" version="1.9.1">
     <idea-version since-build="201.0" until-build="202.*"/>
     <name>

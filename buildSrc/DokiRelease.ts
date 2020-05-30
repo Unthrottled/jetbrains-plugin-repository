@@ -10,7 +10,6 @@ const communityAssetsDir = path.resolve(__dirname, '..', 'doki-theme');
 startRelease(async ({channel, versionNumber}) => {
   await readWriteTemplate("communityUpdatePluginTemplate.xml", canaryDir, versionNumber);
   await readWriteTemplate("communityUpdatePluginTemplate.xml", ultimateDir, versionNumber);
-  await readWriteTemplate("ultimateUpdatePluginTemplate.xml", canaryDir, versionNumber);
   await readWriteTemplate("ultimateUpdatePluginTemplate.xml", ultimateDir, versionNumber);
   if (channel === 'all') {
     await readWriteTemplate("communityUpdatePluginTemplate.xml", communityDir, versionNumber);
