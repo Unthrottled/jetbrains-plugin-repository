@@ -53,11 +53,6 @@
   dependencies:
     "@types/node" "*"
 
-"@types/xml2json@^0.11.0":
-  version "0.11.0"
-  resolved "https://registry.yarnpkg.com/@types/xml2json/-/xml2json-0.11.0.tgz#f7916fa6add0b607ad0d5a877460044d292c99ba"
-  integrity sha512-7q/z45tcMKEPlbCoV5EGPdFLrHst9m3w/sy1tdCvfoR2gI78UgzfhML2jemKAuE2bY2/ZE7f0qzWM0LZ97M54Q==
-
 aws-sdk@*, aws-sdk@^2.614.0:
   version "2.645.0"
   resolved "https://registry.yarnpkg.com/aws-sdk/-/aws-sdk-2.645.0.tgz#20865d693a5150fb6d5770ba3ce1efd558d4bd0a"
@@ -211,18 +206,6 @@ uuid@3.3.2:
   version "3.3.2"
   resolved "https://registry.yarnpkg.com/uuid/-/uuid-3.3.2.tgz#1b4af4955eb3077c501c23872fc6513811587131"
   integrity sha512-yXJmeNaw3DnnKAOKJE51sL/ZaYfWJRl1pK9dr19YFCu0ObS231AB1/LbqTKRAQ5kw8A90rA6fr4riOUpTZvQZA==
-
-xml-formatter@^2.0.1:
-  version "2.0.1"
-  resolved "https://registry.yarnpkg.com/xml-formatter/-/xml-formatter-2.0.1.tgz#9bc6be09c99ff5259e61dde2dacee5d2a37a9fe1"
-  integrity sha512-k9bLMPR741/SL7eZOiaWf4RwDuzkNuAEGFQafA7Pd1hQm1id5Y4lECLKQs5XJhaBe/Xaq1QYyI7Hjxan+Rak1g==
-  dependencies:
-    xml-parser-xo "^3.0.0"
-
-xml-parser-xo@^3.0.0:
-  version "3.0.0"
-  resolved "https://registry.yarnpkg.com/xml-parser-xo/-/xml-parser-xo-3.0.0.tgz#4d46f1962e5100f228b5f73f34c61bb798430195"
-  integrity sha512-MPPexqXBx48m3OFMQXxo7+RYhG6o6kCGflk4q4oL3uQ0b7d5NDKjHFDwUoozOTPT3WFztT13z3R9Sn0QCTIJcQ==
 
 xml2js@0.4.19:
   version "0.4.19"
