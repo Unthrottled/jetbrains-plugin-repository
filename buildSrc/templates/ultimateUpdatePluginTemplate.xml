@@ -2,7 +2,5 @@
         url="https://jetbrains.assets.unthrottled.io/doki-theme-ultimate/doki-theme-ultimate.{{version}}.zip"
         version="{{version}}">
     <idea-version since-build="201.5985.32" until-build="202.*"/>
-    <name>
-        The Doki Theme Ultimate
-    </name>
+    <name>The Doki Theme Ultimate</name>
 </plugin>

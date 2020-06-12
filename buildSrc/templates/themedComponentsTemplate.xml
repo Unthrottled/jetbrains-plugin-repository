@@ -2,7 +2,5 @@
         url="https://jetbrains.assets.unthrottled.io/themed-components/themed-components.{{version}}.zip"
         version="{{version}}">
     <idea-version since-build="201.0" until-build="202.*"/>
-    <name>
-        Themed Components
-    </name>
+    <name>Themed Components</name>
 </plugin>

@@ -2,20 +2,14 @@
 <plugins>
   <plugin id="io.acari.DDLCTheme" url="https://jetbrains.assets.unthrottled.io/doki-theme/doki-theme.7.2.0.zip" version="7.2.0">
     <idea-version since-build="201.0" until-build="201.*"/>
-    <name>
-        The Doki Theme
-    </name>
+    <name>The Doki Theme</name>
   </plugin>
   <plugin id="io.acari.normandy.progress.bar" url="https://jetbrains.assets.unthrottled.io/normandy-progress-bar/normandy-progress-bar.1.9.0.zip" version="1.9.0">
     <idea-version since-build="201.0" until-build="201.*"/>
-    <name>
-        Normandy Progress Bar
-    </name>
+    <name>Normandy Progress Bar</name>
   </plugin>
   <plugin id="io.unthrottled.themed-components" url="https://jetbrains.assets.unthrottled.io/themed-components/themed-components.1.1.2.zip" version="1.1.2">
     <idea-version since-build="201.0" until-build="201.*"/>
-    <name>
-        Themed Components
-    </name>
+    <name>Themed Components</name>
   </plugin>
 </plugins>

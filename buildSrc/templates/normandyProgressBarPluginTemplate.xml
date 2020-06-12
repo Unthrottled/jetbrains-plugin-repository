@@ -2,7 +2,5 @@
         url="https://jetbrains.assets.unthrottled.io/normandy-progress-bar/normandy-progress-bar.{{version}}.zip"
         version="{{version}}">
     <idea-version since-build="201.1174" until-build="202.*"/>
-    <name>
-        Normandy Progress Bar
-    </name>
+    <name>Normandy Progress Bar</name>
 </plugin>
