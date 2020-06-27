@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <plugins>
-	<plugin id="com.markskelton.one-dark-theme" url="https://jetbrains.assets.unthrottled.io/one-dark/one-dark-theme.4.0.0-beta.zip" version="4.0.0-beta">
+  <plugin id="com.markskelton.one-dark-theme" url="https://jetbrains.assets.unthrottled.io/one-dark/one-dark-theme.4.0.0-beta.zip" version="4.0.0-beta">
     <idea-version since-build="201.0" until-build="201.*"/>
     <name>One Dark Theme</name>
   </plugin>
@@ -12,7 +12,7 @@
     <idea-version since-build="201.0" until-build="202.*"/>
     <name>Normandy Progress Bar</name>
   </plugin>
-  <plugin id="io.acari.DDLCTheme" url="https://jetbrains.assets.unthrottled.io/doki-theme/doki-theme.8.0.6.zip" version="8.0.6">
+  <plugin id="io.acari.DDLCTheme" url="https://jetbrains.assets.unthrottled.io/doki-theme/doki-theme.8.0.7.zip" version="8.0.7">
     <idea-version since-build="201.5985.32" until-build="202.*"/>
     <name>The Doki Theme</name>
   </plugin>
