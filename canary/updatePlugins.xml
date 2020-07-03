@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <plugins>
-  <plugin id="com.markskelton.one-dark-theme" url="https://jetbrains.assets.unthrottled.io/one-dark/one-dark-theme.4.0.0-beta.zip" version="4.0.0-beta">
-    <idea-version since-build="201.0" until-build="201.*"/>
+  <plugin id="com.markskelton.one-dark-theme" url="https://jetbrains.assets.unthrottled.io/one-dark/one-dark-theme.4.1.0-BETA.zip" version="4.1.0-BETA">
+    <idea-version since-build="201.5985.32" until-build="2020.*"/>
     <name>One Dark Theme</name>
   </plugin>
   <plugin id="io.acari.normandy.progress.bar" url="https://jetbrains.assets.unthrottled.io/normandy-progress-bar/normandy-progress-bar.1.9.1.zip" version="1.9.1">
