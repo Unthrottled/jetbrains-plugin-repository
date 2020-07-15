@@ -8,11 +8,11 @@
     <idea-version since-build="201.1174" until-build="202.*"/>
     <name>Normandy Progress Bar</name>
   </plugin>
-  <plugin id="io.acari.DDLCTheme" url="https://jetbrains.assets.unthrottled.io/doki-theme/doki-theme.9.0.2.zip" version="9.0.2">
+  <plugin id="io.acari.DDLCTheme" url="https://jetbrains.assets.unthrottled.io/doki-theme/doki-theme.9.0.3.zip" version="9.0.3">
     <idea-version since-build="201.5985.32" until-build="202.*"/>
     <name>The Doki Theme</name>
   </plugin>
-  <plugin id="io.unthrottled.DokiTheme" url="https://jetbrains.assets.unthrottled.io/doki-theme-ultimate/doki-theme-ultimate.9.0.2.zip" version="9.0.2">
+  <plugin id="io.unthrottled.DokiTheme" url="https://jetbrains.assets.unthrottled.io/doki-theme-ultimate/doki-theme-ultimate.9.0.3.zip" version="9.0.3">
     <idea-version since-build="201.5985.32" until-build="202.*"/>
     <name>The Doki Theme Ultimate</name>
   </plugin>
