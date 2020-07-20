@@ -26,7 +26,7 @@
   "dependencies": {
     "aws-sdk": "^2.614.0",
     "file-type": "^14.1.2",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.19",
     "xml2js": "^0.4.23"
   }
 }
