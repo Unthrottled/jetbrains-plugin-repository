@@ -9,6 +9,7 @@
   "private": false,
   "scripts": {
     "release:doki": "ts-node buildSrc/DokiRelease.ts",
+    "release:waifu": "ts-node buildSrc/WaifuMotivatorRelease.ts",
     "release:themed-components": "ts-node buildSrc/ThemedComponentsRelease.ts",
     "release:normandy": "ts-node buildSrc/NormandyRelease.ts",
     "upload": "ts-node buildSrc/AssetUpload.ts",

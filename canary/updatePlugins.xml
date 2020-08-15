@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <plugins>
-  <plugin id="zd.zero.waifu-motivator-plugin" url="https://jetbrains.assets.unthrottled.io/waifu-motivator/waifu-motivator-plugin-1.2.0-BETA.0.zip" version="1.2.0-BETA.0">
-    <idea-version since-build="201.5985.32" until-build="2020.*"/>
-    <name>Waifu Motivator</name>
-  </plugin>
   <plugin id="com.markskelton.one-dark-theme" url="https://jetbrains.assets.unthrottled.io/one-dark/one-dark-theme.4.1.0-BETA.zip" version="4.1.0-BETA">
     <idea-version since-build="201.5985.32" until-build="2020.*"/>
     <name>One Dark Theme</name>
@@ -19,5 +15,9 @@
   <plugin id="io.acari.DDLCTheme" url="https://jetbrains.assets.unthrottled.io/doki-theme/doki-theme.10.0.0.zip" version="10.0.0">
     <idea-version since-build="201.5985.32" until-build="202.*"/>
     <name>The Doki Theme</name>
+  </plugin>
+  <plugin id="zd.zero.waifu-motivator-plugin" url="https://jetbrains.assets.unthrottled.io/waifu-motivator/waifu-motivator.1.2.0-doki.zip" version="1.2.0-doki">
+    <idea-version since-build="201.3803.71" until-build="202.*"/>
+    <name>The Doki Theme Ultimate</name>
   </plugin>
 </plugins>

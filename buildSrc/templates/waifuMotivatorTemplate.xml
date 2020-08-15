@@ -1,0 +1,6 @@
+<plugin id="zd.zero.waifu-motivator-plugin"
+        url="https://jetbrains.assets.unthrottled.io/waifu-motivator/waifu-motivator.{{version}}.zip"
+        version="{{version}}">
+    <idea-version since-build="201.3803.71" until-build="202.*"/>
+    <name>The Doki Theme Ultimate</name>
+</plugin>
