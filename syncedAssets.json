@@ -7,10 +7,10 @@
   "doki-theme/doki-theme.7.0.2-beta.zip": "19559a6c391aa32effb00ce4d963a4db",
   "doki-theme-ultimate/doki-theme-ultimate.7.0.2.zip": "507ccc24bdedce5d8bb83ad35aee757a",
   "doki-theme/doki-theme.7.0.2.zip": "fddf77ea3cae2fb8276fabd63a088592",
-  "canary/updatePlugins.xml": "f31b3ffeb7ca705d7df4180ac8a1a840",
+  "canary/updatePlugins.xml": "448250b7301eeb3bde71009337777ba1",
   "canary/updatePluginsLinks.xml": "a9135f7ce4516568594ab00444d72c4c",
   "ultimate/updatePlugins-193.xml": "7ab32ae727138a7db04fe236398d8508",
-  "ultimate/updatePlugins.xml": "3270dbed294839744247b84f706b2699",
+  "ultimate/updatePlugins.xml": "2a6b0b9e21115ac6a61ba3463227aabf",
   "ultimate/updatePluginsLinks.xml": "3458b715f33a5aa3129c4dcf2de6d319",
   "canary/updatePlugins-193.xml": "ef3f07c0a4fc9d2f44247bb8014947ca",
   "doki-theme-ultimate/doki-theme-ultimate.7.0.3.zip": "83deb3634edec6ea0f54d625d7b7cfe6",
@@ -89,5 +89,6 @@
   "one-dark/one-dark-theme-4.0.0-beta.zip": "d41d8cd98f00b204e9800998ecf8427e",
   "waifu-motivator/waifu-motivator.1.2.0-doki.zip": "0fc191e0958e02c411dd93edf788359e",
   "waifu-motivator/waifu-motivator.1.3-beta.0.zip": "3c870255b1f17ef7098a624db83f5b49",
-  "waifu-motivator/waifu-motivator.1.3-beta.1.zip": "af9b5208195236dffe239114acc45ce2"
+  "waifu-motivator/waifu-motivator.1.3-beta.1.zip": "af9b5208195236dffe239114acc45ce2",
+  "waifu-motivator/waifu-motivator.1.3-beta.2.zip": "23923f21f5b4f54abb8d766fdd696285"
 }
