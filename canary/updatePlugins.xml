@@ -8,10 +8,6 @@
     <idea-version since-build="201.0" until-build="202.*"/>
     <name>Normandy Progress Bar</name>
   </plugin>
-  <plugin id="io.acari.normandy.progress.bar" url="https://jetbrains.assets.unthrottled.io/normandy-progress-bar/normandy-progress-bar.1.9.7.zip" version="1.9.7">
-    <idea-version since-build="203" until-build="203.*"/>
-    <name>Normandy Progress Bar</name>
-  </plugin>
   <plugin id="zd.zero.waifu-motivator-plugin" url="https://jetbrains.assets.unthrottled.io/waifu-motivator/waifu-motivator.1.4.0-beta.1.zip" version="1.4.0-beta.1">
     <idea-version since-build="201.3803.71" until-build="203.*"/>
     <name>Waifu Motivator</name>
@@ -19,5 +15,9 @@
   <plugin id="io.acari.DDLCTheme" url="https://jetbrains.assets.unthrottled.io/doki-theme/doki-theme.11.3.3.zip" version="11.3.3">
     <idea-version since-build="201.5985.32" until-build="203.*"/>
     <name>The Doki Theme</name>
+  </plugin>
+  <plugin id="io.acari.normandy.progress.bar" url="https://jetbrains.assets.unthrottled.io/normandy-progress-bar/normandy-progress-bar.1.9.8.zip" version="1.9.8">
+    <idea-version since-build="203" until-build="203.*"/>
+    <name>Normandy Progress Bar</name>
   </plugin>
 </plugins>
