@@ -1,6 +1,6 @@
 <plugin id="io.unthrottled.themed-components"
         url="https://jetbrains.assets.unthrottled.io/themed-components/themed-components.{{version}}.zip"
         version="{{version}}">
-    <idea-version since-build="201.0" until-build="202.*"/>
+    <idea-version since-build="201.6668.113" until-build="203.*"/>
     <name>Themed Components</name>
 </plugin>
