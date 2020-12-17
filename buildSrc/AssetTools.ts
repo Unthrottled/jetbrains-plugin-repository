@@ -16,7 +16,8 @@ export const assetDirectories = [
   'themed-components',
   'one-dark',
   'waifu-motivator',
-  'normandy-progress-bar'
+  'normandy-progress-bar',
+  'amii',
 ];
 export const canaryDir = path.resolve(__dirname, '..', 'canary');
 export const ultimateDir = path.resolve(__dirname, '..', 'ultimate');
