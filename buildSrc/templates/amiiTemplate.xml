@@ -1,0 +1,6 @@
+<plugin id="io.unthrottled.amii"
+        url="https://jetbrains.assets.unthrottled.io/amii/AMII.{{version}}.zip"
+        version="{{version}}">
+    <idea-version since-build="201.4515.24" until-build="203.*"/>
+    <name>AMII</name>
+</plugin>
