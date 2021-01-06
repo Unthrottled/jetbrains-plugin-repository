@@ -20,7 +20,7 @@
     <idea-version since-build="201.5985.32" until-build="203.*"/>
     <name>The Doki Theme</name>
   </plugin>
-  <plugin id="io.unthrottled.amii" url="https://jetbrains.assets.unthrottled.io/amii/AMII.0.2.1.zip" version="0.2.1">
+  <plugin id="io.unthrottled.amii" url="https://jetbrains.assets.unthrottled.io/amii/AMII.0.2.2.zip" version="0.2.2">
     <idea-version since-build="201.4515.24" until-build="203.*"/>
     <name>AMII</name>
   </plugin>
