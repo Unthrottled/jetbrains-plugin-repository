@@ -12,11 +12,19 @@
     <idea-version since-build="201.6668.113" until-build="203.*"/>
     <name>Themed Components</name>
   </plugin>
+<<<<<<< HEAD
   <plugin id="io.acari.DDLCTheme" url="https://jetbrains.assets.unthrottled.io/doki-theme/doki-theme.12.3.0.zip" version="12.3.0">
+=======
+  <plugin id="io.unthrottled.amii" url="https://jetbrains.assets.unthrottled.io/amii/AMII.0.4.0.zip" version="0.4.0">
+    <idea-version since-build="201.4515.24" until-build="203.*"/>
+    <name>AMII</name>
+  </plugin>
+  <plugin id="io.acari.DDLCTheme" url="https://jetbrains.assets.unthrottled.io/doki-theme/doki-theme.12.4.0.zip" version="12.4.0">
+>>>>>>> Released Doki-Theme v12.4.0
     <idea-version since-build="201.5985.32" until-build="203.*"/>
     <name>The Doki Theme</name>
   </plugin>
-  <plugin id="io.unthrottled.DokiTheme" url="https://jetbrains.assets.unthrottled.io/doki-theme-ultimate/doki-theme-ultimate.12.3.0.zip" version="12.3.0">
+  <plugin id="io.unthrottled.DokiTheme" url="https://jetbrains.assets.unthrottled.io/doki-theme-ultimate/doki-theme-ultimate.12.4.0.zip" version="12.4.0">
     <idea-version since-build="201.5985.32" until-build="203.*"/>
     <name>The Doki Theme Ultimate</name>
   </plugin>
