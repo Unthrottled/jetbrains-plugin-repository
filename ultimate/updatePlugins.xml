@@ -12,7 +12,7 @@
     <idea-version since-build="201.6668.113" until-build="203.*"/>
     <name>Themed Components</name>
   </plugin>
-  <plugin id="io.unthrottled.amii" url="https://jetbrains.assets.unthrottled.io/amii/AMII.0.4.0.zip" version="0.4.0">
+  <plugin id="io.unthrottled.amii" url="https://jetbrains.assets.unthrottled.io/amii/AMII.0.4.1.zip" version="0.4.1">
     <idea-version since-build="201.4515.24" until-build="203.*"/>
     <name>AMII</name>
   </plugin>
