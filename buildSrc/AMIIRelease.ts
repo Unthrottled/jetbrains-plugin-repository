@@ -17,8 +17,8 @@ startRelease(async ({channel, versionNumber}) => {
     })
       .then(() => {
         fs.copyFileSync(
-          path.resolve(amiiSourceDir, 'build', 'distributions', `AMII-${versionNumber}.zip`),
-          path.resolve(assetDirectory, `AMII.${versionNumber}.zip`)
+          path.resolve(amiiSourceDir, 'build', 'distributions', `Anime Memes-${versionNumber}.zip`),
+          path.resolve(assetDirectory, `Anime Memes.${versionNumber}.zip`)
         )
       });
   })
