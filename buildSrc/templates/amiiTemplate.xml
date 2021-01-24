@@ -1,5 +1,5 @@
 <plugin id="io.unthrottled.amii"
-        url="https://jetbrains.assets.unthrottled.io/amii/Anime%20%Memes.{{version}}.zip"
+        url="https://jetbrains.assets.unthrottled.io/amii/Anime+Memes.{{version}}.zip"
         version="{{version}}">
     <idea-version since-build="202.6397.94" until-build="211.*"/>
     <name>Anime Memes</name>
