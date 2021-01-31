@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <plugins>
-  <plugin id="io.acari.normandy.progress.bar" url="https://jetbrains.assets.unthrottled.io/normandy-progress-bar/normandy-progress-bar.1.9.8.zip" version="1.9.8">
-    <idea-version since-build="203" until-build="203.*"/>
-    <name>Normandy Progress Bar</name>
-  </plugin>
   <plugin id="io.unthrottled.themed-components" url="https://jetbrains.assets.unthrottled.io/themed-components/themed-components.1.2.0.zip" version="1.2.0">
     <idea-version since-build="201.6668.113" until-build="203.*"/>
     <name>Themed Components</name>
@@ -23,5 +19,9 @@
   <plugin id="io.unthrottled.amii" url="https://jetbrains.assets.unthrottled.io/amii/Anime+Memes.0.5.2.zip" version="0.5.2">
     <idea-version since-build="202.6397.94" until-build="211.*"/>
     <name>Anime Memes</name>
+  </plugin>
+  <plugin id="io.acari.normandy.progress.bar" url="https://jetbrains.assets.unthrottled.io/normandy-progress-bar/normandy-progress-bar.1.9.9.zip" version="1.9.9">
+    <idea-version since-build="203" until-build="211.*"/>
+    <name>Normandy Progress Bar</name>
   </plugin>
 </plugins>
