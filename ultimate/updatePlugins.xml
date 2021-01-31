@@ -8,14 +8,6 @@
     <idea-version since-build="201.3803.71" until-build="203.*"/>
     <name>Waifu Motivator</name>
   </plugin>
-  <plugin id="io.acari.DDLCTheme" url="https://jetbrains.assets.unthrottled.io/doki-theme/doki-theme.12.5.0.zip" version="12.5.0">
-    <idea-version since-build="201.5985.32" until-build="211.*"/>
-    <name>The Doki Theme</name>
-  </plugin>
-  <plugin id="io.unthrottled.DokiTheme" url="https://jetbrains.assets.unthrottled.io/doki-theme-ultimate/doki-theme-ultimate.12.5.0.zip" version="12.5.0">
-    <idea-version since-build="201.5985.32" until-build="211.*"/>
-    <name>The Doki Theme Ultimate</name>
-  </plugin>
   <plugin id="io.unthrottled.amii" url="https://jetbrains.assets.unthrottled.io/amii/Anime+Memes.0.5.2.zip" version="0.5.2">
     <idea-version since-build="202.6397.94" until-build="211.*"/>
     <name>Anime Memes</name>
@@ -23,5 +15,13 @@
   <plugin id="io.acari.normandy.progress.bar" url="https://jetbrains.assets.unthrottled.io/normandy-progress-bar/normandy-progress-bar.1.9.9.zip" version="1.9.9">
     <idea-version since-build="203" until-build="211.*"/>
     <name>Normandy Progress Bar</name>
+  </plugin>
+  <plugin id="io.acari.DDLCTheme" url="https://jetbrains.assets.unthrottled.io/doki-theme/doki-theme.12.5.2.zip" version="12.5.2">
+    <idea-version since-build="201.5985.32" until-build="211.*"/>
+    <name>The Doki Theme</name>
+  </plugin>
+  <plugin id="io.unthrottled.DokiTheme" url="https://jetbrains.assets.unthrottled.io/doki-theme-ultimate/doki-theme-ultimate.12.5.2.zip" version="12.5.2">
+    <idea-version since-build="201.5985.32" until-build="211.*"/>
+    <name>The Doki Theme Ultimate</name>
   </plugin>
 </plugins>
