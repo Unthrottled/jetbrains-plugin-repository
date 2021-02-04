@@ -20,7 +20,7 @@
     <idea-version since-build="203" until-build="211.*"/>
     <name>Normandy Progress Bar</name>
   </plugin>
-  <plugin id="io.acari.DDLCTheme" url="https://jetbrains.assets.unthrottled.io/doki-theme/doki-theme.12.5.2.zip" version="12.5.2">
+  <plugin id="io.acari.DDLCTheme" url="https://jetbrains.assets.unthrottled.io/doki-theme/doki-theme.12.5.3.zip" version="12.5.3">
     <idea-version since-build="201.5985.32" until-build="211.*"/>
     <name>The Doki Theme</name>
   </plugin>
