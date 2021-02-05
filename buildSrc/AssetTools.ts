@@ -18,6 +18,7 @@ export const assetDirectories = [
   'waifu-motivator',
   'normandy-progress-bar',
   'amii',
+  'randomizer',
 ];
 export const canaryDir = path.resolve(__dirname, '..', 'canary');
 export const ultimateDir = path.resolve(__dirname, '..', 'ultimate');
