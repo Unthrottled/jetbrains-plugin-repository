@@ -24,7 +24,7 @@
     <idea-version since-build="201.5985.32" until-build="211.*"/>
     <name>The Doki Theme Ultimate</name>
   </plugin>
-  <plugin id="io.unthrottled.theme.randomizer" url="https://jetbrains.assets.unthrottled.io/randomizer/theme-randomizer.0.1.1.zip" version="0.1.1">
+  <plugin id="io.unthrottled.theme.randomizer" url="https://jetbrains.assets.unthrottled.io/randomizer/theme-randomizer.0.1.2.zip" version="0.1.2">
     <idea-version since-build="201" until-build="211.*"/>
     <name>Theme Randomizer</name>
   </plugin>
