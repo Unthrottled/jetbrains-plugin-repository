@@ -20,7 +20,7 @@
     <idea-version since-build="202.6397.94" until-build="211.*"/>
     <name>Anime Memes</name>
   </plugin>
-  <plugin id="io.acari.DDLCTheme" url="https://jetbrains.assets.unthrottled.io/doki-theme/doki-theme.13.1.0.zip" version="13.1.0">
+  <plugin id="io.acari.DDLCTheme" url="https://jetbrains.assets.unthrottled.io/doki-theme/doki-theme.13.2.0.zip" version="13.2.0">
     <idea-version since-build="201.5985.32" until-build="211.*"/>
     <name>The Doki Theme</name>
   </plugin>
