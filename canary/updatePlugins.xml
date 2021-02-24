@@ -20,7 +20,7 @@
     <idea-version since-build="201.5985.32" until-build="211.*"/>
     <name>The Doki Theme</name>
   </plugin>
-  <plugin id="io.unthrottled.amii" url="https://jetbrains.assets.unthrottled.io/amii/Anime+Memes.0.7.2.zip" version="0.7.2">
+  <plugin id="io.unthrottled.amii" url="https://jetbrains.assets.unthrottled.io/amii/Anime+Memes.0.7.3.zip" version="0.7.3">
     <idea-version since-build="202.6397.94" until-build="211.*"/>
     <name>Anime Memes</name>
   </plugin>
