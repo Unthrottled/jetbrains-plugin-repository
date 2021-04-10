@@ -7,8 +7,8 @@
   "doki-theme/doki-theme.7.0.2-beta.zip": "19559a6c391aa32effb00ce4d963a4db",
   "doki-theme-ultimate/doki-theme-ultimate.7.0.2.zip": "507ccc24bdedce5d8bb83ad35aee757a",
   "doki-theme/doki-theme.7.0.2.zip": "fddf77ea3cae2fb8276fabd63a088592",
-  "ultimate/updatePlugins.xml": "59cdead8ec3f608bacf110e86522a774",
-  "canary/updatePlugins.xml": "fec6f651c011c2ea7c51c35802cbc287",
+  "ultimate/updatePlugins.xml": "35e28fbfe9096d03cfaaac839d5a38b1",
+  "canary/updatePlugins.xml": "9a68d7f53555378a2bcce90c0d524607",
   "canary/updatePluginsLinks.xml": "a9135f7ce4516568594ab00444d72c4c",
   "ultimate/updatePlugins-193.xml": "7ab32ae727138a7db04fe236398d8508",
   "ultimate/updatePluginsLinks.xml": "3458b715f33a5aa3129c4dcf2de6d319",
@@ -197,5 +197,7 @@
   "doki-theme-ultimate/doki-theme-ultimate.14.2.0.zip": "e8b160f624cb099caf5966e7bebf3713",
   "doki-theme/doki-theme.14.1.0.zip": "1098d4e29a86d26faf36de7467b1cd08",
   "doki-theme/doki-theme.14.1.2.zip": "caa196399b265a7f64d5d8db6df11cfa",
-  "doki-theme/doki-theme.14.2.0.zip": "0ab4ccf9e257341004c203bcd3abebf5"
+  "doki-theme/doki-theme.14.2.0.zip": "0ab4ccf9e257341004c203bcd3abebf5",
+  "doki-theme-ultimate/doki-theme-ultimate.14.3.0.zip": "5f7f6c249098beb76deff22409f14a71",
+  "doki-theme/doki-theme.14.3.0.zip": "f8503f635a9c2334f9a238a5e0839301"
 }
