@@ -24,7 +24,7 @@
     <idea-version since-build="201.5985.32" until-build="211.*"/>
     <name>The Doki Theme Ultimate</name>
   </plugin>
-  <plugin id="io.unthrottled.amii.rider" url="https://jetbrains.assets.unthrottled.io/amii/Anime+Memes_rider_extension.0.2.0.zip" version="0.2.0">
+  <plugin id="io.unthrottled.amii.rider" url="https://jetbrains.assets.unthrottled.io/amii/Anime+Memes_rider_extension.0.2.1.zip" version="0.2.1">
     <idea-version since-build="202.6397.94" until-build="211.*"/>
     <name>Anime Memes - Rider Extension</name>
   </plugin>
