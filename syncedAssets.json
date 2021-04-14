@@ -7,8 +7,8 @@
   "doki-theme/doki-theme.7.0.2-beta.zip": "19559a6c391aa32effb00ce4d963a4db",
   "doki-theme-ultimate/doki-theme-ultimate.7.0.2.zip": "507ccc24bdedce5d8bb83ad35aee757a",
   "doki-theme/doki-theme.7.0.2.zip": "fddf77ea3cae2fb8276fabd63a088592",
-  "ultimate/updatePlugins.xml": "81f0ebb4b3ec3d58ec6a853acb2ad460",
-  "canary/updatePlugins.xml": "5270ef7ef0fc0482df2c95e4346eb0b0",
+  "ultimate/updatePlugins.xml": "280963262d5921d22ca9e473a50e2f32",
+  "canary/updatePlugins.xml": "6dbc86b1eb36743c1c288d38704eb533",
   "canary/updatePluginsLinks.xml": "a9135f7ce4516568594ab00444d72c4c",
   "ultimate/updatePlugins-193.xml": "7ab32ae727138a7db04fe236398d8508",
   "ultimate/updatePluginsLinks.xml": "3458b715f33a5aa3129c4dcf2de6d319",
@@ -202,5 +202,6 @@
   "doki-theme/doki-theme.14.3.0.zip": "f8503f635a9c2334f9a238a5e0839301",
   "amii/Anime Memes_rider_extension.0.1.0.zip": "4bfea5fe98be2b53138aa9ffc102e21b",
   "amii/Anime Memes_rider_extension.0.2.0.zip": "5ba331e3becae78c7aa5baeb57971466",
-  "amii/Anime Memes_rider_extension.0.2.1.zip": "264969d480a1a268fe7a2be3cdda0050"
+  "amii/Anime Memes_rider_extension.0.2.1.zip": "264969d480a1a268fe7a2be3cdda0050",
+  "amii/Anime Memes.0.9.2.zip": "a9b2cd95054ff9772fb20005830cabac"
 }
