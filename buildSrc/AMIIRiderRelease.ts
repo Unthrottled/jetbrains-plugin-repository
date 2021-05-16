@@ -10,7 +10,7 @@ startRelease(async ({channel, versionNumber}) => {
     await readWriteTemplate("amiiRiderTemplate.xml", canaryDir, versionNumber);
     await readWriteTemplate("amiiRiderTemplate.xml", ultimateDir, versionNumber);
     if (channel === 'all') {
-      await readWriteTemplate("amiiTemplate.xml", communityDir, versionNumber);
+      await readWriteTemplate("amiiRiderTemplate.xml", communityDir, versionNumber);
     }
     return runCommand(amiiSourceDir, './ciScripts/buildPlugin.sh', {
       VERSION: versionNumber
