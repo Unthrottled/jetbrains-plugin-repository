@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <plugins>
-  <plugin id="io.acari.normandy.progress.bar" url="https://jetbrains.assets.unthrottled.io/normandy-progress-bar/normandy-progress-bar.1.9.9.zip" version="1.9.9">
-    <idea-version since-build="203" until-build="211.*"/>
-    <name>Normandy Progress Bar</name>
-  </plugin>
   <plugin id="io.unthrottled.theme.randomizer" url="https://jetbrains.assets.unthrottled.io/randomizer/theme-randomizer.0.1.4.zip" version="0.1.4">
     <idea-version since-build="201" until-build="211.*"/>
     <name>Theme Randomizer</name>
@@ -31,5 +27,9 @@
   <plugin id="io.unthrottled.DokiTheme" url="https://jetbrains.assets.unthrottled.io/doki-theme-ultimate/doki-theme-ultimate.15.2.0.zip" version="15.2.0">
     <idea-version since-build="201.5985.32" until-build="212.*"/>
     <name>The Doki Theme Ultimate</name>
+  </plugin>
+  <plugin id="io.acari.normandy.progress.bar" url="https://jetbrains.assets.unthrottled.io/normandy-progress-bar/normandy-progress-bar.1.9.10.zip" version="1.9.10">
+    <idea-version since-build="203" until-build="212.*"/>
+    <name>Normandy Progress Bar</name>
   </plugin>
 </plugins>
