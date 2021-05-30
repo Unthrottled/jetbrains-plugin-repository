@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <plugins>
-  <plugin id="io.unthrottled.theme.randomizer" url="https://jetbrains.assets.unthrottled.io/randomizer/theme-randomizer.0.1.4.zip" version="0.1.4">
-    <idea-version since-build="201" until-build="211.*"/>
-    <name>Theme Randomizer</name>
-  </plugin>
   <plugin id="io.unthrottled.themed-components" url="https://jetbrains.assets.unthrottled.io/themed-components/themed-components.1.4.1.zip" version="1.4.1">
     <idea-version since-build="201.6668.113" until-build="211.*"/>
     <name>Themed Components</name>
@@ -27,5 +23,9 @@
   <plugin id="io.acari.DDLCTheme" url="https://jetbrains.assets.unthrottled.io/doki-theme/doki-theme.15.2.2.zip" version="15.2.2">
     <idea-version since-build="201.5985.32" until-build="212.*"/>
     <name>The Doki Theme</name>
+  </plugin>
+  <plugin id="io.unthrottled.theme.randomizer" url="https://jetbrains.assets.unthrottled.io/randomizer/theme-randomizer.0.1.5.zip" version="0.1.5">
+    <idea-version since-build="201" until-build="212.*"/>
+    <name>Theme Randomizer</name>
   </plugin>
 </plugins>
