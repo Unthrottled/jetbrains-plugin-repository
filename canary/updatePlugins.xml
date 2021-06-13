@@ -20,7 +20,7 @@
     <idea-version since-build="201" until-build="212.*"/>
     <name>Theme Randomizer</name>
   </plugin>
-  <plugin id="io.unthrottled.amii" url="https://jetbrains.assets.unthrottled.io/amii/Anime+Memes.0.10.5.zip" version="0.10.5">
+  <plugin id="io.unthrottled.amii" url="https://jetbrains.assets.unthrottled.io/amii/Anime+Memes.0.10.4.zip" version="0.10.4">
     <idea-version since-build="202.6397.94" until-build="212.*"/>
     <name>Anime Memes</name>
   </plugin>
