@@ -16,7 +16,7 @@ const syncedAssets: StringDictionary<string> =
   getSyncedAssets();
 
 function buildKey(filePath: string): string {
-  return filePath.substr(rootDirectory.length + 1);
+  return filePath.substr(rootDirectory.length + 1).replace(/\\/g, '/');
 }
 
 

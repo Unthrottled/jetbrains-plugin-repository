@@ -60,7 +60,7 @@ export const getSyncedAssets = () => JSON.parse(
   fs.readFileSync(path.join(rootDirectory, 'syncedAssets.json'), 'utf-8'));
 
 
-
+export const command = `.${path.sep}ciScripts${path.sep}buildPlugin.${path.sep == '/' ? 'sh' : 'bat'}`;
 
 export const runCommand = (cwd: string, command: string, env: { [key: string]: string } = {}) => {
   return new Promise((resolve) => {
@@ -76,7 +76,7 @@ export const runCommand = (cwd: string, command: string, env: { [key: string]: s
     childProcess.stderr.pipe(process.stderr);
 
     childProcess.on('close', () => {
-      resolve();
+      resolve("");
     })
   })
 };
