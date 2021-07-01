@@ -24,11 +24,11 @@
     <idea-version since-build="202.6397.94" until-build="212.*"/>
     <name>Anime Memes</name>
   </plugin>
-  <plugin id="io.acari.DDLCTheme" url="https://jetbrains.assets.unthrottled.io/doki-theme/doki-theme.16.1.0.zip" version="16.1.0">
+  <plugin id="io.acari.DDLCTheme" url="https://jetbrains.assets.unthrottled.io/doki-theme/doki-theme.16.2.0.zip" version="16.2.0">
     <idea-version since-build="201.5985.32" until-build="212.*"/>
     <name>The Doki Theme</name>
   </plugin>
-  <plugin id="io.unthrottled.DokiTheme" url="https://jetbrains.assets.unthrottled.io/doki-theme-ultimate/doki-theme-ultimate.16.1.0.zip" version="16.1.0">
+  <plugin id="io.unthrottled.DokiTheme" url="https://jetbrains.assets.unthrottled.io/doki-theme-ultimate/doki-theme-ultimate.16.2.0.zip" version="16.2.0">
     <idea-version since-build="201.5985.32" until-build="212.*"/>
     <name>The Doki Theme Ultimate</name>
   </plugin>
