@@ -4,10 +4,6 @@
     <idea-version since-build="201.0" until-build="201.*"/>
     <name>Normandy Progress Bar</name>
   </plugin>
-  <plugin id="io.unthrottled.theme.randomizer" url="https://jetbrains.assets.unthrottled.io/randomizer/theme-randomizer.0.1.3.zip" version="0.1.3">
-    <idea-version since-build="201" until-build="211.*"/>
-    <name>Theme Randomizer</name>
-  </plugin>
   <plugin id="io.unthrottled.themed-components" url="https://jetbrains.assets.unthrottled.io/themed-components/themed-components.1.4.1.zip" version="1.4.1">
     <idea-version since-build="201.6668.113" until-build="211.*"/>
     <name>Themed Components</name>
@@ -23,5 +19,9 @@
   <plugin id="io.unthrottled.amii" url="https://jetbrains.assets.unthrottled.io/amii/Anime+Memes.0.10.6.zip" version="0.10.6">
     <idea-version since-build="202.6397.94" until-build="212.*"/>
     <name>Anime Memes</name>
+  </plugin>
+  <plugin id="io.unthrottled.theme.randomizer" url="https://jetbrains.assets.unthrottled.io/randomizer/theme-randomizer.0.2.0.zip" version="0.2.0">
+    <idea-version since-build="201" until-build="212.*"/>
+    <name>Theme Randomizer</name>
   </plugin>
 </plugins>
