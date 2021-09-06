@@ -7,8 +7,8 @@
   "doki-theme/doki-theme.7.0.2-beta.zip": "19559a6c391aa32effb00ce4d963a4db",
   "doki-theme-ultimate/doki-theme-ultimate.7.0.2.zip": "507ccc24bdedce5d8bb83ad35aee757a",
   "doki-theme/doki-theme.7.0.2.zip": "fddf77ea3cae2fb8276fabd63a088592",
-  "ultimate/updatePlugins.xml": "bd4971a8fafc1dd6ddbbc478fe38c2c4",
-  "canary/updatePlugins.xml": "d8695d77568c309d65a133788e91048d",
+  "ultimate/updatePlugins.xml": "3089806322baac5536e7dd7169adc3bf",
+  "canary/updatePlugins.xml": "1ad4234c06a128ca7740d0a4bcb2f257",
   "canary/updatePluginsLinks.xml": "a9135f7ce4516568594ab00444d72c4c",
   "ultimate/updatePlugins-193.xml": "7ab32ae727138a7db04fe236398d8508",
   "ultimate/updatePluginsLinks.xml": "3458b715f33a5aa3129c4dcf2de6d319",
@@ -263,5 +263,8 @@
   "doki-theme-ultimate/doki-theme-ultimate.18.2.0.zip": "f5d339a6673c1262fc020c1b0d78ea52",
   "doki-theme/doki-theme.18.2.0.zip": "edc119fd6b639ff5cbfec15688458a94",
   "doki-theme-ultimate/doki-theme-ultimate.18.2.1.zip": "31c85ccb076896864fd4647cdba615c8",
-  "doki-theme/doki-theme.18.2.1.zip": "630a939c3e5fd43fa625fb37f5b03a26"
+  "doki-theme/doki-theme.18.2.1.zip": "630a939c3e5fd43fa625fb37f5b03a26",
+  "doki-theme-ultimate/doki-theme-ultimate.18.3.1.zip": "4d9ad268ab435ccc276a6d7ca116b714",
+  "doki-theme/doki-theme.18.3.1.zip": "dd4fbd2596f5c9de70d58a24bbf5dd2a",
+  "amii/Anime Memes.0.12.0.zip": "0c90181132db6589d62fe01109230a66"
 }
