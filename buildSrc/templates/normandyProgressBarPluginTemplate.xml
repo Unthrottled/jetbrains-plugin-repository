@@ -1,6 +1,6 @@
 <plugin id="io.acari.normandy.progress.bar"
         url="https://jetbrains.assets.unthrottled.io/normandy-progress-bar/normandy-progress-bar.{{version}}.zip"
         version="{{version}}">
-    <idea-version since-build="203" until-build="212.*"/>
+    <idea-version since-build="203" until-build="213.*"/>
     <name>Normandy Progress Bar</name>
 </plugin>
