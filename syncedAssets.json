@@ -1,14 +1,14 @@
 {
   "updatePlugins-193.xml": "ef3f07c0a4fc9d2f44247bb8014947ca",
-  "updatePlugins.xml": "f164407967b3857cb2d113e8c4754758",
+  "updatePlugins.xml": "e1fda74f0e679403785e195da266ac23",
   "doki-theme-ultimate/doki-theme-ultimate.7.0.1.zip": "0396259344e40282b64419d4969f5e5d",
   "doki-theme/doki-theme.7.0.1.zip": "c258c76abd8a8acb19752c98986138ba",
   "updatePluginsLinks.xml": "dfe35f474772ea3b7ac141d7563d1d70",
   "doki-theme/doki-theme.7.0.2-beta.zip": "19559a6c391aa32effb00ce4d963a4db",
   "doki-theme-ultimate/doki-theme-ultimate.7.0.2.zip": "507ccc24bdedce5d8bb83ad35aee757a",
   "doki-theme/doki-theme.7.0.2.zip": "fddf77ea3cae2fb8276fabd63a088592",
-  "ultimate/updatePlugins.xml": "3595b448cb6ee218df4f15e6954308af",
-  "canary/updatePlugins.xml": "f54ade3fc19d5b498054942abf921cad",
+  "ultimate/updatePlugins.xml": "04893670962fe12b12439881762c7043",
+  "canary/updatePlugins.xml": "46f7ded8d134c20bd0f7ec9d64db5b11",
   "canary/updatePluginsLinks.xml": "a9135f7ce4516568594ab00444d72c4c",
   "ultimate/updatePlugins-193.xml": "7ab32ae727138a7db04fe236398d8508",
   "ultimate/updatePluginsLinks.xml": "3458b715f33a5aa3129c4dcf2de6d319",
@@ -56,7 +56,7 @@
   "doki-theme-ultimate/doki-theme-ultimate.8.0.7.zip": "908ca446eb0eb2c5f885e83572b90e36",
   "doki-theme/doki-theme.8.0.7.zip": "b8977aa11d762dcfd760b315de56eb21",
   "one-dark/one-dark-theme.4.0.3-2019.zip": "5f68994e7713052fc48b4ddb668dd7ea",
-  "one-dark/sentry-dsn.txt": "221d2b72e5bcbbbe6da06427fd19cb50",
+  "one-dark/sentry-dsn.txt": "b25a8e575e37efce1117deac061c33fd",
   "one-dark/one-dark-theme.4.1.0-BETA.zip": "0b107e49ea13a7af277abad387010d1b",
   "one-dark/one-dark-theme.5.0.0.zip": "592ba4c936084c217d103b31ca06dcad",
   "doki-theme/sentry-dsn.txt": "c9c66005908e12fb84a621015e0a1c65",
@@ -270,5 +270,7 @@
   "doki-theme-ultimate/doki-theme-ultimate.19.0.0.zip": "1c4fef12e43eeb27d75aaf95b7499532",
   "doki-theme/doki-theme.19.0.0.zip": "e21a4ec3147ce9daf1b6e1029cb82aa2",
   "normandy-progress-bar/normandy-progress-bar.1.9.11.zip": "c871f08fc52d2148c49f79e2f31b720f",
-  "randomizer/theme-randomizer.0.2.1.zip": "938984e1bb682246ceb0219a69c0f3e9"
+  "randomizer/theme-randomizer.0.2.1.zip": "938984e1bb682246ceb0219a69c0f3e9",
+  "doki-theme-ultimate/doki-theme-ultimate.20.0.0.zip": "df059367682cd89e05164f99b8d9a214",
+  "doki-theme/doki-theme.20.0.0.zip": "94e929f4914419a8a51f3080fb180877"
 }
