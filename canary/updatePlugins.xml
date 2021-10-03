@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <plugins>
-  <plugin id="io.unthrottled.themed-components" url="https://jetbrains.assets.unthrottled.io/themed-components/themed-components.1.4.1.zip" version="1.4.1">
-    <idea-version since-build="201.6668.113" until-build="211.*"/>
-    <name>Themed Components</name>
-  </plugin>
   <plugin id="io.unthrottled.amii.android" url="https://jetbrains.assets.unthrottled.io/amii/Anime+Memes_android_extension.0.1.0.zip" version="0.1.0">
     <idea-version since-build="202.6397.94" until-build="211.*"/>
     <name>Anime Memes</name>
@@ -27,5 +23,9 @@
   <plugin id="io.unthrottled.amii.rider" url="https://jetbrains.assets.unthrottled.io/amii/Anime+Memes_rider_extension.0.4.0.zip" version="0.4.0">
     <idea-version since-build="202.6397.94" until-build="212.*"/>
     <name>Anime Memes - Rider Extension</name>
+  </plugin>
+  <plugin id="io.unthrottled.themed-components" url="https://jetbrains.assets.unthrottled.io/themed-components/themed-components.1.4.3.zip" version="1.4.3">
+    <idea-version since-build="203.7148.57" until-build="213.*"/>
+    <name>Themed Components</name>
   </plugin>
 </plugins>
