@@ -16,10 +16,6 @@
     <idea-version since-build="201" until-build="212.*"/>
     <name>Theme Randomizer</name>
   </plugin>
-  <plugin id="io.unthrottled.amii" url="https://jetbrains.assets.unthrottled.io/amii/Anime+Memes.0.11.0.zip" version="0.11.0">
-    <idea-version since-build="202.6397.94" until-build="212.*"/>
-    <name>Anime Memes</name>
-  </plugin>
   <plugin id="io.unthrottled.amii.rider" url="https://jetbrains.assets.unthrottled.io/amii/Anime+Memes_rider_extension.0.3.0.zip" version="0.3.0">
     <idea-version since-build="202.6397.94" until-build="212.*"/>
     <name>Anime Memes - Rider Extension</name>
@@ -27,5 +23,9 @@
   <plugin id="io.acari.DDLCTheme" url="https://jetbrains.assets.unthrottled.io/doki-theme/doki-theme.21.0.0.zip" version="21.0.0">
     <idea-version since-build="203.7148.57" until-build="213.*"/>
     <name>The Doki Theme</name>
+  </plugin>
+  <plugin id="io.unthrottled.amii" url="https://jetbrains.assets.unthrottled.io/amii/Anime+Memes.0.13.0.zip" version="0.13.0">
+    <idea-version since-build="202.6397.94" until-build="213.*"/>
+    <name>Anime Memes</name>
   </plugin>
 </plugins>
