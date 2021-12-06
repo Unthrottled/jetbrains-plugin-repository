@@ -1,6 +1,6 @@
 <plugin id="io.unthrottled.amii.rider"
         url="https://jetbrains.assets.unthrottled.io/amii/Anime+Memes_rider_extension.{{version}}.zip"
         version="{{version}}">
-    <idea-version since-build="202.6397.94" until-build="212.*"/>
+    <idea-version since-build="202.6397.94" until-build="213.*"/>
     <name>Anime Memes - Rider Extension</name>
 </plugin>
