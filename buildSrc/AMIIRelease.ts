@@ -1,6 +1,6 @@
 import path from "path";
 import fs from 'fs';
-import {canaryDir, communityDir, readWriteTemplate, runCommand, ultimateDir} from "./AssetTools";
+import {canaryDir, command, communityDir, readWriteTemplate, runCommand, ultimateDir} from "./AssetTools";
 import {startRelease} from "./ReleaseTools";
 
 const amiiSourceDir = path.resolve(__dirname, '..', '..', 'AMII');
@@ -12,7 +12,7 @@ startRelease(async ({channel, versionNumber}) => {
     if (channel === 'all') {
       await readWriteTemplate("amiiTemplate.xml", communityDir, versionNumber);
     }
-    return runCommand(amiiSourceDir, './ciScripts/buildPlugin.sh', {
+    return runCommand(amiiSourceDir, command, {
       VERSION: versionNumber
     })
       .then(() => {
