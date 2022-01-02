@@ -19,6 +19,7 @@ export const assetDirectories = [
   'normandy-progress-bar',
   'amii',
   'randomizer',
+  'grep-console',
 ];
 export const canaryDir = path.resolve(__dirname, '..', 'canary');
 export const ultimateDir = path.resolve(__dirname, '..', 'ultimate');
