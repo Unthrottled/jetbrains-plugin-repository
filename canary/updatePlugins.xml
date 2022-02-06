@@ -4,10 +4,6 @@
     <idea-version since-build="202.6397.94" until-build="211.*"/>
     <name>Anime Memes</name>
   </plugin>
-  <plugin id="io.unthrottled.theme.randomizer" url="https://jetbrains.assets.unthrottled.io/randomizer/theme-randomizer.0.2.1.zip" version="0.2.1">
-    <idea-version since-build="203.7148.57" until-build="213.*"/>
-    <name>Theme Randomizer</name>
-  </plugin>
   <plugin id="io.unthrottled.themed-components" url="https://jetbrains.assets.unthrottled.io/themed-components/themed-components.1.4.3.zip" version="1.4.3">
     <idea-version since-build="203.7148.57" until-build="213.*"/>
     <name>Themed Components</name>
@@ -24,7 +20,11 @@
     <idea-version since-build="203.7148.57" until-build="221.*"/>
     <name>The Doki Theme</name>
   </plugin>
-  <plugin id="io.acari.normandy.progress.bar" url="https://jetbrains.assets.unthrottled.io/normandy-progress-bar/normandy-progress-bar.1.19.12.zip" version="1.19.12">
+  <plugin id="io.unthrottled.theme.randomizer" url="https://jetbrains.assets.unthrottled.io/randomizer/theme-randomizer.0.3.0.zip" version="0.3.0">
+    <idea-version since-build="203.7148.57" until-build="221.*"/>
+    <name>Theme Randomizer</name>
+  </plugin>
+  <plugin id="io.acari.normandy.progress.bar" url="https://jetbrains.assets.unthrottled.io/normandy-progress-bar/normandy-progress-bar.1.9.14.zip" version="1.9.14">
     <idea-version since-build="203" until-build="221.*"/>
     <name>Normandy Progress Bar</name>
   </plugin>
