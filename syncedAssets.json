@@ -1,14 +1,14 @@
 {
   "updatePlugins-193.xml": "ef3f07c0a4fc9d2f44247bb8014947ca",
-  "updatePlugins.xml": "9de6d91d57f83971d6f907cefbf181b4",
+  "updatePlugins.xml": "4195b95ee1f66b80f40b1c32820c34e7",
   "doki-theme-ultimate/doki-theme-ultimate.7.0.1.zip": "0396259344e40282b64419d4969f5e5d",
   "doki-theme/doki-theme.7.0.1.zip": "c258c76abd8a8acb19752c98986138ba",
   "updatePluginsLinks.xml": "dfe35f474772ea3b7ac141d7563d1d70",
   "doki-theme/doki-theme.7.0.2-beta.zip": "19559a6c391aa32effb00ce4d963a4db",
   "doki-theme-ultimate/doki-theme-ultimate.7.0.2.zip": "507ccc24bdedce5d8bb83ad35aee757a",
   "doki-theme/doki-theme.7.0.2.zip": "fddf77ea3cae2fb8276fabd63a088592",
-  "ultimate/updatePlugins.xml": "d0427440f436bb57ab1fffe0c4005f4e",
-  "canary/updatePlugins.xml": "a5b22348d63dd023c272286c0438f046",
+  "ultimate/updatePlugins.xml": "6b081cb35772c1e556b0d6ba66fec949",
+  "canary/updatePlugins.xml": "fd64ee6ade00a600cc4988eb2864f764",
   "canary/updatePluginsLinks.xml": "a9135f7ce4516568594ab00444d72c4c",
   "ultimate/updatePlugins-193.xml": "7ab32ae727138a7db04fe236398d8508",
   "ultimate/updatePluginsLinks.xml": "3458b715f33a5aa3129c4dcf2de6d319",
@@ -298,5 +298,7 @@
   "normandy-progress-bar/normandy-progress-bar.1.9.12.zip": "683a05ebc6f7d686c51557d26d82f4fd",
   "normandy-progress-bar/normandy-progress-bar.1.19.12.zip": "e868e672b6b2f54039b54b55fd97ac6f",
   "randomizer/theme-randomizer.0.3.0.zip": "09d262805ce079ad8baa77f9888e746f",
-  "normandy-progress-bar/normandy-progress-bar.1.9.14.zip": "53584b2da45ef5ebf6300706580518d0"
+  "normandy-progress-bar/normandy-progress-bar.1.9.14.zip": "53584b2da45ef5ebf6300706580518d0",
+  "doki-theme-ultimate/doki-theme-ultimate.74.1-1.0.2.zip": "bdcf19e4667ad3e1b2db115af9847875",
+  "doki-theme/doki-theme.74.1-1.0.2.zip": "e623d09e66abbaa25bafba809de6fc6a"
 }
