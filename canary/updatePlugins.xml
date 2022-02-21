@@ -20,12 +20,12 @@
     <idea-version since-build="203.7148.57" until-build="221.*"/>
     <name>Theme Randomizer</name>
   </plugin>
-  <plugin id="io.acari.DDLCTheme" url="https://jetbrains.assets.unthrottled.io/doki-theme/doki-theme.74.1-1.0.2.zip" version="74.1-1.0.2">
-    <idea-version since-build="203.7148.57" until-build="221.*"/>
-    <name>The Doki Theme</name>
-  </plugin>
   <plugin id="io.acari.normandy.progress.bar" url="https://jetbrains.assets.unthrottled.io/normandy-progress-bar/normandy-progress-bar.1.9.13.zip" version="1.9.13">
     <idea-version since-build="203" until-build="221.*"/>
     <name>Normandy Progress Bar</name>
+  </plugin>
+  <plugin id="io.acari.DDLCTheme" url="https://jetbrains.assets.unthrottled.io/doki-theme/doki-theme.74.1-1.0.3.zip" version="74.1-1.0.3">
+    <idea-version since-build="203.7148.57" until-build="221.*"/>
+    <name>The Doki Theme</name>
   </plugin>
 </plugins>
