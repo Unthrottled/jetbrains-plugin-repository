@@ -12,10 +12,6 @@
     <idea-version since-build="202.6397.94" until-build="213.*"/>
     <name>Anime Memes - Rider Extension</name>
   </plugin>
-  <plugin id="io.unthrottled.theme.randomizer" url="https://jetbrains.assets.unthrottled.io/randomizer/theme-randomizer.0.3.0.zip" version="0.3.0">
-    <idea-version since-build="203.7148.57" until-build="221.*"/>
-    <name>Theme Randomizer</name>
-  </plugin>
   <plugin id="io.acari.normandy.progress.bar" url="https://jetbrains.assets.unthrottled.io/normandy-progress-bar/normandy-progress-bar.1.9.13.zip" version="1.9.13">
     <idea-version since-build="203" until-build="221.*"/>
     <name>Normandy Progress Bar</name>
@@ -27,5 +23,9 @@
   <plugin id="io.acari.DDLCTheme" url="https://jetbrains.assets.unthrottled.io/doki-theme/doki-theme.78.0-1.0.7.zip" version="78.0-1.0.7">
     <idea-version since-build="203.7148.57" until-build="221.*"/>
     <name>The Doki Theme</name>
+  </plugin>
+  <plugin id="io.unthrottled.theme.randomizer" url="https://jetbrains.assets.unthrottled.io/randomizer/theme-randomizer.0.4.0.zip" version="0.4.0">
+    <idea-version since-build="203.7148.57" until-build="221.*"/>
+    <name>Theme Randomizer</name>
   </plugin>
 </plugins>
