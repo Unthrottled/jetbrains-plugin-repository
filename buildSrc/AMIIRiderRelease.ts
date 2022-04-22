@@ -1,9 +1,9 @@
 import path from "path";
 import fs from 'fs';
-import {canaryDir, communityDir, readWriteTemplate, runCommand, ultimateDir} from "./AssetTools";
+import {canaryDir, command, communityDir, readWriteTemplate, runCommand, ultimateDir} from "./AssetTools";
 import {startRelease} from "./ReleaseTools";
 
-const amiiSourceDir = path.resolve(__dirname, '..', '..', 'AMII-rider-extensions');
+const amiiSourceDir = path.resolve(__dirname, '..', '..', 'amii-rider-extension');
 const assetDirectory = path.resolve(__dirname, '..', 'amii');
 
 startRelease(async ({channel, versionNumber}) => {
@@ -12,7 +12,7 @@ startRelease(async ({channel, versionNumber}) => {
     if (channel === 'all') {
       await readWriteTemplate("amiiRiderTemplate.xml", communityDir, versionNumber);
     }
-    return runCommand(amiiSourceDir, './ciScripts/buildPlugin.sh', {
+    return runCommand(amiiSourceDir, command, {
       VERSION: versionNumber
     })
       .then(() => {
