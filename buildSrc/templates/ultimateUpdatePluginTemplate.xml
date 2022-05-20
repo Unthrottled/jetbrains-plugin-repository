@@ -1,6 +1,6 @@
 <plugin id="io.unthrottled.DokiTheme"
         url="https://jetbrains.assets.unthrottled.io/doki-theme-ultimate/doki-theme-ultimate.{{version}}.zip"
         version="{{version}}">
-    <idea-version since-build="203.7148.57" until-build="221.*"/>
+    <idea-version since-build="203.7148.57" until-build="222.*"/>
     <name>The Doki Theme Ultimate</name>
 </plugin>
