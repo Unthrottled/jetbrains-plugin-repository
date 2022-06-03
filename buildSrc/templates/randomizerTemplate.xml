@@ -1,6 +1,6 @@
 <plugin id="io.unthrottled.theme.randomizer"
         url="https://jetbrains.assets.unthrottled.io/randomizer/theme-randomizer.{{version}}.zip"
         version="{{version}}">
-    <idea-version since-build="203.7148.57" until-build="221.*"/>
+    <idea-version since-build="203.7148.57" until-build="222.*"/>
     <name>Theme Randomizer</name>
 </plugin>
