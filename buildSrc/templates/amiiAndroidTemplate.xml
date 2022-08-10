@@ -1,6 +1,6 @@
 <plugin id="io.unthrottled.amii.android"
         url="https://jetbrains.assets.unthrottled.io/amii/Anime+Memes_android_extension.{{version}}.zip"
         version="{{version}}">
-    <idea-version since-build="202.6397.94" until-build="211.*"/>
-    <name>Anime Memes</name>
+    <idea-version since-build="211.6693.111" until-build="222.*"/>
+    <name>Anime Memes - Android Extension</name>
 </plugin>

@@ -1,14 +1,14 @@
 {
   "updatePlugins-193.xml": "ef3f07c0a4fc9d2f44247bb8014947ca",
-  "updatePlugins.xml": "2e60b01196a2ef9e8556bad7cf980bae",
+  "updatePlugins.xml": "221934ff6fc3fb52ecd0f26d9c89ddac",
   "doki-theme-ultimate/doki-theme-ultimate.7.0.1.zip": "0396259344e40282b64419d4969f5e5d",
   "doki-theme/doki-theme.7.0.1.zip": "c258c76abd8a8acb19752c98986138ba",
   "updatePluginsLinks.xml": "dfe35f474772ea3b7ac141d7563d1d70",
   "doki-theme/doki-theme.7.0.2-beta.zip": "19559a6c391aa32effb00ce4d963a4db",
   "doki-theme-ultimate/doki-theme-ultimate.7.0.2.zip": "507ccc24bdedce5d8bb83ad35aee757a",
   "doki-theme/doki-theme.7.0.2.zip": "fddf77ea3cae2fb8276fabd63a088592",
-  "ultimate/updatePlugins.xml": "ab669fa65e33d2e23523696feb9ef295",
-  "canary/updatePlugins.xml": "3a43af9f2e31164508ff3820da4b352e",
+  "ultimate/updatePlugins.xml": "f37534a45ca890edcb79bb1a7fc025e9",
+  "canary/updatePlugins.xml": "5403e18108d35da081b49b714bbb4272",
   "canary/updatePluginsLinks.xml": "a9135f7ce4516568594ab00444d72c4c",
   "ultimate/updatePlugins-193.xml": "7ab32ae727138a7db04fe236398d8508",
   "ultimate/updatePluginsLinks.xml": "3458b715f33a5aa3129c4dcf2de6d319",
@@ -336,5 +336,7 @@
   "doki-theme-ultimate/doki-theme-ultimate.88.0-1.3.0.zip": "349809162343db1530061756366b36e1",
   "doki-theme/doki-theme.88.0-1.3.0.zip": "28ead1c638f40ea61046bb4c10fc1a9a",
   "doki-theme-ultimate/doki-theme-ultimate.88.1-1.4.0.zip": "b3a62419b9f52d3301f24e6e31e6f979",
-  "doki-theme/doki-theme.88.1-1.4.0.zip": "0ccc0d22be120ff8ce78838235fd0775"
+  "doki-theme/doki-theme.88.1-1.4.0.zip": "0ccc0d22be120ff8ce78838235fd0775",
+  "amii/Anime Memes_android_extension.0.2.0.zip": "c48531d374cb55de2e2b14d98d70a1d7",
+  "amii/Anime Memes_rider_extension.0.6.0.zip": "a1b884173b68e93ff1db8a4e74c27d10"
 }

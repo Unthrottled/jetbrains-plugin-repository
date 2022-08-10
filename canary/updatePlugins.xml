@@ -1,13 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <plugins>
-  <plugin id="io.unthrottled.amii.android" url="https://jetbrains.assets.unthrottled.io/amii/Anime+Memes_android_extension.0.1.0.zip" version="0.1.0">
-    <idea-version since-build="202.6397.94" until-build="211.*"/>
-    <name>Anime Memes</name>
-  </plugin>
-  <plugin id="io.unthrottled.amii.rider" url="https://jetbrains.assets.unthrottled.io/amii/Anime+Memes_rider_extension.0.5.1.zip" version="0.5.1">
-    <idea-version since-build="211.6693.111" until-build="221.*"/>
-    <name>Anime Memes - Rider Extension</name>
-  </plugin>
   <plugin id="io.acari.normandy.progress.bar" url="https://jetbrains.assets.unthrottled.io/normandy-progress-bar/normandy-progress-bar.1.9.14.zip" version="1.9.14">
     <idea-version since-build="203" until-build="222.*"/>
     <name>Normandy Progress Bar</name>
@@ -27,5 +19,13 @@
   <plugin id="io.acari.DDLCTheme" url="https://jetbrains.assets.unthrottled.io/doki-theme/doki-theme.88.1-1.4.0.zip" version="88.1-1.4.0">
     <idea-version since-build="211.7628.21" until-build="222.*"/>
     <name>The Doki Theme</name>
+  </plugin>
+  <plugin id="io.unthrottled.amii.rider" url="https://jetbrains.assets.unthrottled.io/amii/Anime+Memes_rider_extension.0.6.0.zip" version="0.6.0">
+    <idea-version since-build="211.6693.111" until-build="222.*"/>
+    <name>Anime Memes - Rider Extension</name>
+  </plugin>
+  <plugin id="io.unthrottled.amii.android" url="https://jetbrains.assets.unthrottled.io/amii/Anime+Memes_android_extension.0.2.0.zip" version="0.2.0">
+    <idea-version since-build="211.6693.111" until-build="222.*"/>
+    <name>Anime Memes - Android Extension</name>
   </plugin>
 </plugins>
