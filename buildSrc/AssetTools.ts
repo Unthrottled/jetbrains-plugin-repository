@@ -11,6 +11,7 @@ export const rootDirectory =
 export const assetDirectories = [
   'doki-theme-ultimate',
   'doki-theme',
+  'doki-theme-icons',
   'canary',
   'ultimate',
   'themed-components',
