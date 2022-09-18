@@ -16,14 +16,6 @@
     <idea-version since-build="203.7148.57" until-build="222.*"/>
     <name>Anime Memes</name>
   </plugin>
-  <plugin id="io.acari.DDLCTheme" url="https://jetbrains.assets.unthrottled.io/doki-theme/doki-theme.88.1-1.4.0.zip" version="88.1-1.4.0">
-    <idea-version since-build="211.7628.21" until-build="222.*"/>
-    <name>The Doki Theme</name>
-  </plugin>
-  <plugin id="io.unthrottled.DokiTheme" url="https://jetbrains.assets.unthrottled.io/doki-theme-ultimate/doki-theme-ultimate.88.1-1.4.0.zip" version="88.1-1.4.0">
-    <idea-version since-build="211.7628.21" until-build="222.*"/>
-    <name>The Doki Theme Ultimate</name>
-  </plugin>
   <plugin id="io.unthrottled.amii.rider" url="https://jetbrains.assets.unthrottled.io/amii/Anime+Memes_rider_extension.0.6.0.zip" version="0.6.0">
     <idea-version since-build="211.6693.111" until-build="222.*"/>
     <name>Anime Memes - Rider Extension</name>
@@ -31,5 +23,13 @@
   <plugin id="io.unthrottled.amii.android" url="https://jetbrains.assets.unthrottled.io/amii/Anime+Memes_android_extension.0.2.0.zip" version="0.2.0">
     <idea-version since-build="211.6693.111" until-build="222.*"/>
     <name>Anime Memes - Android Extension</name>
+  </plugin>
+  <plugin id="io.acari.DDLCTheme" url="https://jetbrains.assets.unthrottled.io/doki-theme/doki-theme.88.1-1.5.0.zip" version="88.1-1.5.0">
+    <idea-version since-build="211.7628.21" until-build="222.*"/>
+    <name>The Doki Theme</name>
+  </plugin>
+  <plugin id="io.unthrottled.DokiTheme" url="https://jetbrains.assets.unthrottled.io/doki-theme-ultimate/doki-theme-ultimate.88.1-1.5.0.zip" version="88.1-1.5.0">
+    <idea-version since-build="211.7628.21" until-build="222.*"/>
+    <name>The Doki Theme Ultimate</name>
   </plugin>
 </plugins>
