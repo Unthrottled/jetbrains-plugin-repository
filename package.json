@@ -9,6 +9,7 @@
   "private": false,
   "scripts": {
     "release:doki": "ts-node buildSrc/DokiRelease.ts",
+    "release:doki:icons": "ts-node buildSrc/DokiIconsRelease.ts",
     "release:amii": "ts-node buildSrc/AMIIRelease.ts",
     "release:amii:rider": "ts-node buildSrc/AMIIRiderRelease.ts",
     "release:amii:android": "ts-node buildSrc/AMIIAndroidRelease.ts",
