@@ -7,8 +7,8 @@
   "doki-theme/doki-theme.7.0.2-beta.zip": "19559a6c391aa32effb00ce4d963a4db",
   "doki-theme-ultimate/doki-theme-ultimate.7.0.2.zip": "507ccc24bdedce5d8bb83ad35aee757a",
   "doki-theme/doki-theme.7.0.2.zip": "fddf77ea3cae2fb8276fabd63a088592",
-  "ultimate/updatePlugins.xml": "05b705fed9d3c385f2c75c9dd8f86e0c",
-  "canary/updatePlugins.xml": "de514fad8266896f7cb91337d0ced961",
+  "ultimate/updatePlugins.xml": "59dae7d1e9e1b895ba813d3222cd5726",
+  "canary/updatePlugins.xml": "33e47da92d4b9d3dd08032f879fd4008",
   "canary/updatePluginsLinks.xml": "a9135f7ce4516568594ab00444d72c4c",
   "ultimate/updatePlugins-193.xml": "7ab32ae727138a7db04fe236398d8508",
   "ultimate/updatePluginsLinks.xml": "3458b715f33a5aa3129c4dcf2de6d319",
@@ -401,5 +401,7 @@
   "amii/Anime Memes_android_extension.0.3.0.zip": "0827ad12d88caadbcbc811ec7a5fc284",
   "doki-theme-ultimate/doki-theme-ultimate.88.3-1.8.3.zip": "53c812abaf9d9f932a6fe4fe38026dd8",
   "doki-theme/doki-theme.88.3-1.8.3.zip": "2f8060211b1e5532a7a2da1f7c95706b",
-  "doki-theme-icons/Doki Theme Icons.88.3-1.0.6.zip": "4fcaa9c8d0b2a354dcbce6a897c304db"
+  "doki-theme-icons/Doki Theme Icons.88.3-1.0.6.zip": "4fcaa9c8d0b2a354dcbce6a897c304db",
+  "doki-theme-ultimate/doki-theme-ultimate.88.3-1.9.0.zip": "f0decb6098662f884f4828f5456c9369",
+  "doki-theme/doki-theme.88.3-1.9.0.zip": "c83726f9d19f6a958e45f3b6f25ca384"
 }
