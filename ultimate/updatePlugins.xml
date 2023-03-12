@@ -20,10 +20,6 @@
     <idea-version since-build="211.6693.111" until-build="222.*"/>
     <name>Anime Memes - Android Extension</name>
   </plugin>
-  <plugin id="io.unthrottled.doki.icons" url="https://jetbrains.assets.unthrottled.io/doki-theme-icons/Doki+Theme+Icons.88.3-1.0.10.zip" version="88.3-1.0.10">
-    <idea-version since-build="222" until-build="231.*"/>
-    <name>Doki Theme Icons</name>
-  </plugin>
   <plugin id="io.acari.DDLCTheme" url="https://jetbrains.assets.unthrottled.io/doki-theme/doki-theme.88.5-1.9.6.zip" version="88.5-1.9.6">
     <idea-version since-build="223" until-build="231.*"/>
     <name>Doki Theme</name>
@@ -35,5 +31,9 @@
   <plugin id="io.unthrottled.theme.randomizer" url="https://jetbrains.assets.unthrottled.io/randomizer/theme-randomizer.0.8.2.zip" version="0.8.2">
     <idea-version since-build="203.7148.57" until-build="231.*"/>
     <name>Theme Randomizer</name>
+  </plugin>
+  <plugin id="io.unthrottled.doki.icons" url="https://jetbrains.assets.unthrottled.io/doki-theme-icons/Doki+Theme+Icons.88.3-1.0.11.zip" version="88.3-1.0.11">
+    <idea-version since-build="222" until-build="231.*"/>
+    <name>Doki Theme Icons</name>
   </plugin>
 </plugins>
