@@ -12,10 +12,6 @@
     <idea-version since-build="211.6693.111" until-build="222.*"/>
     <name>Anime Memes - Rider Extension</name>
   </plugin>
-  <plugin id="io.unthrottled.amii" url="https://jetbrains.assets.unthrottled.io/amii/Anime+Memes.1.1.6.zip" version="1.1.6">
-    <idea-version since-build="203.7148.57" until-build="231.*"/>
-    <name>Anime Memes</name>
-  </plugin>
   <plugin id="io.unthrottled.amii.android" url="https://jetbrains.assets.unthrottled.io/amii/Anime+Memes_android_extension.0.3.0.zip" version="0.3.0">
     <idea-version since-build="211.6693.111" until-build="222.*"/>
     <name>Anime Memes - Android Extension</name>
@@ -35,5 +31,9 @@
   <plugin id="io.unthrottled.doki.icons" url="https://jetbrains.assets.unthrottled.io/doki-theme-icons/Doki+Theme+Icons.88.3-1.0.11.zip" version="88.3-1.0.11">
     <idea-version since-build="222" until-build="231.*"/>
     <name>Doki Theme Icons</name>
+  </plugin>
+  <plugin id="io.unthrottled.amii" url="https://jetbrains.assets.unthrottled.io/amii/Anime+Memes.1.1.7.zip" version="1.1.7">
+    <idea-version since-build="213" until-build="231.*"/>
+    <name>Anime Memes</name>
   </plugin>
 </plugins>
