@@ -1,6 +1,6 @@
 <plugin id="io.acari.DDLCTheme"
         url="https://jetbrains.assets.unthrottled.io/doki-theme/doki-theme.{{version}}.zip"
         version="{{version}}">
-    <idea-version since-build="223" until-build="231.*"/>
+    <idea-version since-build="223" until-build="232.*"/>
     <name>Doki Theme</name>
 </plugin>

@@ -28,8 +28,8 @@
     <idea-version since-build="222" until-build="231.*"/>
     <name>Doki Theme Icons</name>
   </plugin>
-  <plugin id="io.acari.DDLCTheme" url="https://jetbrains.assets.unthrottled.io/doki-theme/doki-theme.88.5-1.10.0.zip" version="88.5-1.10.0">
-    <idea-version since-build="223" until-build="231.*"/>
+  <plugin id="io.acari.DDLCTheme" url="https://jetbrains.assets.unthrottled.io/doki-theme/doki-theme.88.5-1.11.0.zip" version="88.5-1.11.0">
+    <idea-version since-build="223" until-build="232.*"/>
     <name>Doki Theme</name>
   </plugin>
 </plugins>
