@@ -28,4 +28,8 @@
     <idea-version since-build="211.6693.111" until-build="222.*"/>
     <name>Anime Memes - Rider Extension</name>
   </plugin>
+  <plugin id="io.unthrottled.doki.icons" url="https://jetbrains.assets.unthrottled.io/doki-theme-icons/Doki+Theme+Icons.88.5-1.0.13.zip" version="88.5-1.0.13">
+    <idea-version since-build="222" until-build="232.*"/>
+    <name>Doki Theme Icons</name>
+  </plugin>
 </plugins>
