@@ -28,12 +28,12 @@
     <idea-version since-build="233.8264.8" until-build="233.*"/>
     <name>Doki Theme Icons</name>
   </plugin>
-  <plugin id="io.acari.DDLCTheme" url="https://jetbrains.assets.unthrottled.io/doki-theme/doki-theme.88.5-1.12.0.zip" version="88.5-1.12.0">
-    <idea-version since-build="233.8264.8" until-build="233.*"/>
+  <plugin id="io.acari.DDLCTheme" url="https://jetbrains.assets.unthrottled.io/doki-theme/doki-theme.88.5-1.13.0.zip" version="88.5-1.13.0">
+    <idea-version since-build="233.8264.8" until-build="241.*"/>
     <name>Doki Theme</name>
   </plugin>
-  <plugin id="io.unthrottled.DokiTheme" url="https://jetbrains.assets.unthrottled.io/doki-theme-ultimate/doki-theme-ultimate.88.5-1.12.0.zip" version="88.5-1.12.0">
-    <idea-version since-build="233.8264.8" until-build="233.*"/>
+  <plugin id="io.unthrottled.DokiTheme" url="https://jetbrains.assets.unthrottled.io/doki-theme-ultimate/doki-theme-ultimate.88.5-1.13.0.zip" version="88.5-1.13.0">
+    <idea-version since-build="233.8264.8" until-build="241.*"/>
     <name>Doki Theme Ultimate</name>
   </plugin>
 </plugins>
