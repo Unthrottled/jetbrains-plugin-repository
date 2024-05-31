@@ -16,10 +16,6 @@
     <idea-version since-build="203" until-build="221.*"/>
     <name>Normandy Progress Bar</name>
   </plugin>
-  <plugin id="io.unthrottled.amii" url="https://jetbrains.assets.unthrottled.io/amii/Anime+Memes.0.14.1.zip" version="0.14.1">
-    <idea-version since-build="202.6397.94" until-build="221.*"/>
-    <name>Anime Memes</name>
-  </plugin>
   <plugin id="io.acari.DDLCTheme" url="https://jetbrains.assets.unthrottled.io/doki-theme/doki-theme.88.1-1.4.0.zip" version="88.1-1.4.0">
     <idea-version since-build="211.7628.21" until-build="222.*"/>
     <name>Doki Theme</name>
@@ -31,5 +27,9 @@
   <plugin id="io.unthrottled.doki.icons" url="https://jetbrains.assets.unthrottled.io/doki-theme-icons/Doki+Theme+Icons.88.5-1.0.13.zip" version="88.5-1.0.13">
     <idea-version since-build="222" until-build="232.*"/>
     <name>Doki Theme Icons</name>
+  </plugin>
+  <plugin id="io.unthrottled.amii" url="https://jetbrains.assets.unthrottled.io/amii/Anime+Memes.1.3.1.zip" version="1.3.1">
+    <idea-version since-build="233" until-build="241.*"/>
+    <name>Anime Memes</name>
   </plugin>
 </plugins>
