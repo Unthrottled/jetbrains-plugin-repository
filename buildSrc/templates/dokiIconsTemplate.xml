@@ -1,6 +1,6 @@
 <plugin id="io.unthrottled.doki.icons"
         url="https://jetbrains.assets.unthrottled.io/doki-theme-icons/Doki+Theme+Icons.{{version}}.zip"
         version="{{version}}">
-    <idea-version since-build="233.8264.8" until-build="241.*"/>
+    <idea-version since-build="241" until-build="242.*"/>
     <name>Doki Theme Icons</name>
 </plugin>
