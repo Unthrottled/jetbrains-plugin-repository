@@ -24,16 +24,16 @@
     <idea-version since-build="233" until-build="241.*"/>
     <name>Anime Memes</name>
   </plugin>
-  <plugin id="io.acari.DDLCTheme" url="https://jetbrains.assets.unthrottled.io/doki-theme/doki-theme.88.5-1.14.0.zip" version="88.5-1.14.0">
-    <idea-version since-build="233.8264.8" until-build="241.*"/>
-    <name>Doki Theme</name>
-  </plugin>
-  <plugin id="io.unthrottled.DokiTheme" url="https://jetbrains.assets.unthrottled.io/doki-theme-ultimate/doki-theme-ultimate.88.5-1.14.0.zip" version="88.5-1.14.0">
-    <idea-version since-build="233.8264.8" until-build="241.*"/>
-    <name>Doki Theme Ultimate</name>
-  </plugin>
   <plugin id="io.unthrottled.doki.icons" url="https://jetbrains.assets.unthrottled.io/doki-theme-icons/Doki+Theme+Icons.88.5-1.14.0.zip" version="88.5-1.14.0">
     <idea-version since-build="241" until-build="242.*"/>
     <name>Doki Theme Icons</name>
+  </plugin>
+  <plugin id="io.acari.DDLCTheme" url="https://jetbrains.assets.unthrottled.io/doki-theme/doki-theme.88.5-1.14.1.zip" version="88.5-1.14.1">
+    <idea-version since-build="241" until-build="242.*"/>
+    <name>Doki Theme</name>
+  </plugin>
+  <plugin id="io.unthrottled.DokiTheme" url="https://jetbrains.assets.unthrottled.io/doki-theme-ultimate/doki-theme-ultimate.88.5-1.14.1.zip" version="88.5-1.14.1">
+    <idea-version since-build="241" until-build="242.*"/>
+    <name>Doki Theme Ultimate</name>
   </plugin>
 </plugins>
