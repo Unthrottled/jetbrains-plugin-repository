@@ -33,7 +33,7 @@
     <name>Doki Theme</name>
   </plugin>
   <plugin id="io.unthrottled.DokiTheme" url="https://jetbrains.assets.unthrottled.io/doki-theme-ultimate/doki-theme-ultimate.88.5-1.15.0.zip" version="88.5-1.15.0">
-    <idea-version since-build="241" until-build="242.*"/>
+    <idea-version since-build="243" until-build="243.*"/>
     <name>Doki Theme Ultimate</name>
   </plugin>
 </plugins>
