@@ -7,8 +7,8 @@
   "doki-theme/doki-theme.7.0.2-beta.zip": "19559a6c391aa32effb00ce4d963a4db",
   "doki-theme-ultimate/doki-theme-ultimate.7.0.2.zip": "507ccc24bdedce5d8bb83ad35aee757a",
   "doki-theme/doki-theme.7.0.2.zip": "fddf77ea3cae2fb8276fabd63a088592",
-  "ultimate/updatePlugins.xml": "3747cc657978ecf528cf886a1628abea",
-  "canary/updatePlugins.xml": "83783d4741af534f6bdd3a67a9af65e0",
+  "ultimate/updatePlugins.xml": "dfcd2d831c8619a3424b90c97940b307",
+  "canary/updatePlugins.xml": "a76e9baa81373f23b663e233fe36960e",
   "canary/updatePluginsLinks.xml": "a9135f7ce4516568594ab00444d72c4c",
   "ultimate/updatePlugins-193.xml": "7ab32ae727138a7db04fe236398d8508",
   "ultimate/updatePluginsLinks.xml": "3458b715f33a5aa3129c4dcf2de6d319",
@@ -448,5 +448,6 @@
   "doki-theme-icons/Doki Theme Icons.88.5-1.4.0.zip": "4319cdac1aefec38d38776f49a75c591",
   "amii/Anime Memes.1.4.0.zip": "b1ec7a6254834ac278ba25ee37e7ecf6",
   "doki-theme-ultimate/doki-theme-ultimate.88.5-1.15.0.zip": "60ed3f523be32e6d976b048c5e412a2f",
-  "doki-theme/doki-theme.88.5-1.15.0.zip": "c34a50751d6de69f2d1c94baa00da780"
+  "doki-theme/doki-theme.88.5-1.15.0.zip": "c34a50751d6de69f2d1c94baa00da780",
+  "doki-theme-icons/Doki Theme Icons.88.5-1.5.0.zip": "e73ece4b21e57c21bb23e55c1e97bb61"
 }
