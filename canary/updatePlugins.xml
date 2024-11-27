@@ -29,7 +29,7 @@
     <name>Doki Theme Icons</name>
   </plugin>
   <plugin id="io.unthrottled.amii" url="https://jetbrains.assets.unthrottled.io/amii/Anime+Memes.1.5.0.zip" version="1.5.0">
-    <idea-version since-build="233" until-build="241.*"/>
+    <idea-version since-build="243" until-build="243.*"/>
     <name>Anime Memes</name>
   </plugin>
 </plugins>
