@@ -17,7 +17,7 @@ startRelease(async ({channel, versionNumber}) => {
     })
       .then(() => {
         fs.copyFileSync(
-          path.resolve(dokiIconsSourceDir, 'build', 'distributions', `Doki Theme Icons-${versionNumber}.zip`),
+          path.resolve(dokiIconsSourceDir, 'build', 'distributions', `doki-theme-icons-jetbrains-${versionNumber}.zip`),
           path.resolve(assetDirectory, `Doki Theme Icons.${versionNumber}.zip`)
         )
       });
